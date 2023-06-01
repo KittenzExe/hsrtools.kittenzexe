@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>a</h1>
+</body>
+<script>
+function removeExtension() {
+  var url = window.location.href;
+  var index = url.lastIndexOf(".html");
+  if (index > -1) {
+    url = url.substring(0, index);
+    window.location.href = url;
+  }
+}
+</script>
+</html>
