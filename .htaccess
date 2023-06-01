@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^index\.html$ index [L]
+RewriteRule ^page1\.html$ page1 [L]
