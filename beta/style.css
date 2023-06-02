@@ -7,6 +7,7 @@ body {
     width: 350px;
     height: 100%;
     position: absolute;
+    align-items: center;
     margin: 0;
     padding: 0;
     top: 0;
@@ -77,4 +78,44 @@ body {
     bottom: 0;
     overflow: hidden;
     background-color: #efd1a1;
+}
+
+#list {
+    list-style-type: none;
+    overflow: hidden;
+    left: 15px;
+    top: 125px;
+    width: 220px;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+#list-li {
+    overflow: hidden;
+}
+#list-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: DIN;
+    font-weight: bold;
+    overflow: hidden;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #efd1a1;
+}
+#list-li a:not(.active) {
+    background-color: #2e3036;
+    overflow: hidden;
+}
+#list-li a:hover:not(.active) {
+    background-color: #403441;
+    overflow: hidden;
+}
+.active {
+    background-color: #b9141c;
+    overflow: hidden;
 }
