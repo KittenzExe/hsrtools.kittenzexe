@@ -101,6 +101,7 @@ body {
     padding: 20px 30px;
     text-decoration: none;
     font-family: DIN;
+    font-size: 20px;
     font-weight: bold;
     overflow: hidden;
     border-width: 5px;
@@ -112,10 +113,47 @@ body {
     overflow: hidden;
 }
 #list-li a:hover:not(.active) {
-    background-color: #403441;
+    background-color: #d1253b;
     overflow: hidden;
 }
 .active {
     background-color: #b9141c;
+    overflow: hidden;
+}
+#list2 {
+    list-style-type: none;
+    overflow: hidden;
+    left: 15px;
+    top: 90%;
+    width: 220px;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+#list-li2 {
+    overflow: hidden;
+}
+#list-li2 a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: DIN;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+    border-width: 5px;
+    border-style: solid;
+    background-color: #2e3036;
+    border-color: #efd1a1;
+}
+#list-li2 a:not(.active) {
+    background-color: #2e3036;
+    overflow: hidden;
+}
+#list-li2 a:hover:not(.active) {
+    background-color: #d1253b;
     overflow: hidden;
 }
