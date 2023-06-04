@@ -124,7 +124,7 @@ body {
     list-style-type: none;
     overflow: hidden;
     left: 15px;
-    top: 90%;
+    top: 85%;
     width: 220px;
     height: 100%;
     position: absolute;
@@ -138,7 +138,7 @@ body {
     color: #fef6ed;
     text-align: center;
     margin: 10px;
-    padding: 20px 30px;
+    padding: 10px 30px;
     text-decoration: none;
     font-family: DIN;
     font-size: 20px;
@@ -247,7 +247,5 @@ body {
     overflow: hidden;
 }
 #content-grid-item-character {
-    height: 200px;
     overflow: hidden;
-    text-align: center;
 }
