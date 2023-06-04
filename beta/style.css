@@ -225,6 +225,7 @@ body {
   font-size: 30px;
   text-align: center;
   overflow: hidden;
+  text-decoration: none;
 }
 #content-grid-item-star-decor {
     position: absolute;
