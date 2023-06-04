@@ -279,6 +279,8 @@ body {
     width: 100%;
     position: absolute;
     overflow: hidden;
+    background-color: #fef6ed;
+    
 }
 #footer-split-left {
     align-items: center;
