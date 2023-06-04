@@ -6,7 +6,7 @@ body {
 #bar {
     width: 350px;
     height: 100%;
-    position: absolute;
+    position: fixed;
     align-items: center;
     margin: 0;
     padding: 0;
@@ -160,7 +160,6 @@ body {
 
 #content {
     width: calc(100% - 340px);
-    height: 100% - 50px;
     margin-left: 330px;
     padding: 0;
     top: 10px;
@@ -212,7 +211,7 @@ body {
 #content-grid-container{
   display: grid;
   grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px;
-  height: calc(100% - 150px);
+  height: auto;
   margin-top: 150px;
   padding: 10px;
 }
