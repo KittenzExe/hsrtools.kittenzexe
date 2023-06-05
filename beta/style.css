@@ -245,9 +245,24 @@ body {
     border-color: #efd1a1;
     background-color: #b9141c;
 }
+#footer-split-version {
+    height: 100%;
+    margin-left: 80%;
+    margin-top: -10px;
+    font-family: DIN;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 10px;
+    overflow: hidden;
+}
 #footer-a {
     text-decoration: none;
     color: #fef6ed;
+}
+#footer-a-version {
+    text-decoration: none;
+    color: #2e3036;
 }
 /* -------------------------------------------------- FOOTER --------------------------------------------------*/
 
