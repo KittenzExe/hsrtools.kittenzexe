@@ -285,6 +285,7 @@ body {
     font-size: 75px;
     font-weight: bold;
     color: #b9141c;
+    display: inline
 }
 #content-topbar-info {
     width: 100%;
@@ -300,7 +301,6 @@ body {
     font-weight: bold;
     color: #efd1a1;
 }
-
 #content-grid-container{
   display: grid;
   grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px;
