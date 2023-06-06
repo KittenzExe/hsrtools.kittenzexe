@@ -163,9 +163,10 @@ body {
 
 /* -------------------------------------------------- FOOTER --------------------------------------------------*/
 #footer {
-    top: calc(100% + 10px);
+    margin-top: calc(20% + 10px);
     height: 150px;
-    width: calc(100% + 20px);
+    margin-left: -10px;
+    width: calc(100% + 40px);
     background-color: antiquewhite;
     overflow: hidden;
 }
@@ -270,7 +271,7 @@ body {
     top: 10px;
     left: -10px;
     bottom: 10px;
-    position: absolute;
+    position: relative;
 }
 #content-topbar {
     width: 100%;
@@ -279,7 +280,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    position: absolute;
+    position: relative;
     overflow: hidden;
     align-items: center;
 }
@@ -316,7 +317,7 @@ body {
   display: grid;
   grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px;
   height: auto;
-  margin-top: 150px;
+  margin-top: 10px;
   padding: 10px;
 }
 #content-grid-item {
