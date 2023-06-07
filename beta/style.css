@@ -266,6 +266,7 @@ body {
 /* -------------------------------------------------- CONTENT --------------------------------------------------*/
 #content {
     width: calc(100% - 340px);
+    height: auto;
     margin-left: 330px;
     padding: 0;
     top: 10px;
@@ -386,7 +387,7 @@ body {
 #content-box-listing {
     width: 95%;
     margin-left: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     padding: 10px;
     top: 60px;
     left: -10px;
