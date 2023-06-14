@@ -20,7 +20,7 @@
     width: 20%;
     background-color: aqua;
   }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: calc(384px + 500px)) {
     #sidebar-holder {
       background-color: aquamarine;
     }
