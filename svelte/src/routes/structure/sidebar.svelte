@@ -1,6 +1,7 @@
 <div id="sidebar-holder">
   <div id="sidebar-decor">
     <div id="sidebar-decor-yellow"></div>
+    <div id="sidebar-decor-red"></div>
   </div>
   <div id="sidebar-content-holder">
     <div id="logo-side">
@@ -27,8 +28,8 @@
     border: 0;
     height: 100vh;
     width: 25%;
-    background-color: red;
-    position: sticky;
+    background-color: orange;
+    position: absolute;
   }
   #sidebar-decor-yellow {
     margin: 0;
@@ -38,8 +39,17 @@
     height: 100vh;
     width: 30%;
     background-color: yellow;
-    position: sticky;
+    position: absolute;
   }
+  #sidebar-decor-red {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100vh;
+    width: 70%;
+    background-color: red;
+  }
+  
   @media screen and (max-width: calc(288px + 500px)) {
     #sidebar-holder {
       background-color: aquamarine;
