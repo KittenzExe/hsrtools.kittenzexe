@@ -2,12 +2,12 @@
   import Sidebar from "../structure/sidebar.svelte"
 </script>
 
-<div id="global">
+<div id="pagefill">
   <Sidebar/>
 </div>
 
 <style>
-  #global {
+  #pagefill {
     margin: 0;
     padding: 0;
     border: 0;
