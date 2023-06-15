@@ -1,6 +1,6 @@
 <script>
   import Sidebar from "../structure/sidebar.svelte"
-  import PageData from "./home.svelte"
+  import PageData from "./pageDEV.svelte"
 </script>
 
 <div id="pagefill">
