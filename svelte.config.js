@@ -9,7 +9,8 @@ export default {
             assets: 'docs',
             fallback: undefined,
             precompress: false,
-            strict: true
+            strict: true,
+            relative: false
         })
     }
 };
