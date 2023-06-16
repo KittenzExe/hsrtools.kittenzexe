@@ -8,7 +8,6 @@
   #content-holder {
     margin: 0;
     margin-left: 15vw;
-    margin-top: -100vh;
     padding: 0;
     border: 0;
     min-height: 100vh;

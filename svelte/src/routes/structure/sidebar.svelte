@@ -30,15 +30,15 @@
     height: 100vh;
     width: 15vw;
     top: 0;
-    position: sticky;
-    overflow: hidden;
+    left: 0;
+    position: fixed;
   }
   #sidebar-decor {
     margin: 0;
     margin-left: 75%;
     padding: 0;
     border: 0;
-    height: 100vh;
+    height: 100%;
     width: 25%;
     position: absolute;
     overflow: hidden;
@@ -139,7 +139,9 @@
   
   @media screen and (max-width: calc(288px + 500px)) {
     #sidebar-holder {
-      position: sticky;
+      top: 0;
+      left: 0;
+      position: fixed;
       overflow: hidden;
     }
   }
@@ -147,7 +149,9 @@
     #sidebar-holder {
       width: 288px;
       background-color: blue;
-      position: sticky;
+      top: 0;
+      left: 0;
+      position: fixed;
       overflow: hidden;
     }
   }
