@@ -1,6 +1,12 @@
+<script>
+  import Footer from "../structure/footer.svelte"
+</script>
+
 <div id="content-holder">
   aFUCK FUCK FUCK <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>a
 </div>
+
+<Footer/>
 
 <style>
   @font-face { font-family: DIN; src: url('./src/fonts/DIN Bold.ttf'); } 
@@ -27,7 +33,7 @@
     #content-holder {
       width: calc(100vw - 288px);
       margin-left: 288px;
-      background-color: palevioletred;
+      background-color: white;
     }
   }
 </style>
