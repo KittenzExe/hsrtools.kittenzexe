@@ -6,7 +6,7 @@
           <a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-left">Official GitHub Page</div></a>
           <a id="footer-a" href="https://twitter.com/kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-center">KittenzExe's Twitter</div></a>
           <a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe/discussions" target="_blank" rel="noopener noreferrer"><div id="footer-split-right">Suggest an Edit</div></a>
-          <a id="footer-a-version" href="https://hsrtools.kittenzexe.com/beta/beta"><div id="footer-split-version">Web Version: Beta v0.1-1-SVELTE</div></a><!-- update each beta --><!-- update before out of beta -->
+          <a id="footer-a-version" href="https://hsrtools.kittenzexe.com/beta/beta"><div id="footer-split-version">Web Version: Beta v0.1-5-SVELTE</div></a><!-- update each beta --><!-- update before out of beta -->
       </div>
   </div>
 </div>
@@ -100,7 +100,7 @@
   }
   #footer-split-version {
       height: 100%;
-      margin-left: 75%;
+      margin-left: 70%;
       margin-top: -34px;
       font-family: DIN;
       font-size: 25px;
@@ -115,7 +115,7 @@
   }
   #footer-a-version {
       text-decoration: none;
-      color: #2e3036;
+      color: #cbc4bd;
   }
   
   @media screen and (max-width: calc(288px + 500px)) {
