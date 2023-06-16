@@ -99,8 +99,8 @@
   }
   #footer-split-version {
       height: 100%;
-      margin-left: 80%;
-      margin-top: -10px;
+      margin-left: 75%;
+      margin-top: -34px;
       font-family: DIN;
       font-size: 25px;
       text-decoration: none;
