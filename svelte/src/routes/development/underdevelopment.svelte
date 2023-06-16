@@ -8,11 +8,11 @@
     <div id="content-topbar-info" style="font-size: 20px;">Looks like something went wrong!</div>
   </div>
   <div id="content-box-main1">
-    <img src="../src/images/character-art/Pompom/Pom-Pom_Sticker_15.webp" alt="pompom" style="height: 200px;">
+    <img src="./images/character-art/Pompom/Pom-Pom_Sticker_15.webp" alt="pompom" style="height: 200px;">
     <br>Don't worry! This isn't a 404 page but you have encounted a page that hasn't been made yet or under development!
     <br><br><br>If you are on the main website (https://hsrtools.kittenzexe.com), then this page isn't here. This is a tempoary page designed as a filler of where the next webpage will go.
     <br><br>If you are on the beta website (https://hsrtools.kittenzexe.com/beta), then this page might be under development! If you would like to find out or help develop it, check it out on GitHub! (Your help will be much appreciated!)
-    <br><img src="../src/images/character-art/Pompom/Pom-Pom_Sticker_14.webp" alt="pompom" style="height: 200px;">
+    <br><img src="./images/character-art/Pompom/Pom-Pom_Sticker_14.webp" alt="pompom" style="height: 200px;">
     <br>If you have any questions or you would like to add or edit anything, please feel free to visit the public GitHub page here!
     <br><a href="https://github.com/KittenzExe/hsrtools.kittenzexe">GitHub Page!</a>
     <br>(hsrtools.kittenzexe.com is owned and ran by <a href="https://github.com/KittenzExe">KittenzExe</a>)
@@ -22,7 +22,7 @@
 <Footer/>
 
 <style>
-  @font-face { font-family: DIN; src: url('./src/fonts/DIN Bold.ttf'); } 
+  @font-face { font-family: DIN; src: url('./fonts/DIN Bold.ttf'); } 
 
   #content-holder {
     margin: 0;

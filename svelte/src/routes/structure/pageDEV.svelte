@@ -9,7 +9,7 @@
 <Footer/>
 
 <style>
-  @font-face { font-family: DIN; src: url('./src/fonts/DIN Bold.ttf'); } 
+  @font-face { font-family: DIN; src: url('./fonts/DIN Bold.ttf'); } 
 
   #content-holder {
     margin: 0;

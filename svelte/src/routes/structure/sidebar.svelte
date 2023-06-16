@@ -5,7 +5,7 @@
   </div>
   <div id="sidebar-content-holder">
     <div id="logo-side">
-      <div id="logo"><img src="./src/images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
+      <div id="logo"><img src="./images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
       <div id="logotxt">Honkai: Star Rail Tools</div>
     </div>
     <div id="nav-side">
@@ -21,7 +21,7 @@
 </div>
 
 <style>
-  @font-face { font-family: DIN; src: url('./src/fonts/DIN Bold.ttf'); } 
+  @font-face { font-family: DIN; src: url('./fonts/DIN Bold.ttf'); } 
 
   #sidebar-holder {
     margin: 0;
