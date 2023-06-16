@@ -5,16 +5,16 @@
   </div>
   <div id="sidebar-content-holder">
     <div id="logo-side">
-      <div id="logo"><img src="./images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
+      <div id="logo"><img src="../images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
       <div id="logotxt">Honkai: Star Rail Tools</div>
     </div>
     <div id="nav-side">
       <div id="list">
-        <li id="list-li"><a href="./home">Home</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="./development">Characters</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="./development">Database</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="./development">Calculator</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="./beta">Settings</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../home">Home</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../development">Characters</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../development">Database</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../development">Calculator</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../beta">Settings</a></li><!-- update before out of beta -->
       </div>
     </div>
   </div>

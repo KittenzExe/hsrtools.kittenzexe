@@ -24,6 +24,7 @@
     width: calc(100vw - 15vw);
     background-color: aqua;
     float: left;
+    overflow: hidden;
   }
   #footer-decor1 {
     height: 20px;
@@ -127,7 +128,6 @@
     #content-holder {
       width: calc(100vw - 288px);
       margin-left: 288px;
-      background-color: palevioletred;
     }
   }
 </style>
