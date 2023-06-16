@@ -10,11 +10,11 @@
     </div>
     <div id="nav-side">
       <div id="list">
-        <li id="list-li"><a href="">Home</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="">Characters</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="">Database</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="">Calculator</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="">Settings</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="./home">Home</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="./development">Characters</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="./development">Database</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="./development">Calculator</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="./beta">Settings</a></li><!-- update before out of beta -->
       </div>
     </div>
   </div>
@@ -93,6 +93,7 @@
     padding: 0;
     border: 0;
     width: 100%;
+    font-family: DIN;
     font-size: 200%;
     font-weight: 500;
     text-align: center;
