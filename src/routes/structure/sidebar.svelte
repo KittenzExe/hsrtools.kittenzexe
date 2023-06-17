@@ -11,7 +11,7 @@
     <div id="nav-side">
       <div id="list">
         <li id="list-li"><a href="../home">Home</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../development">Characters</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../characters">Characters</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../development">Database</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../development">Calculator</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../beta">Settings</a></li><!-- update before out of beta -->
@@ -21,7 +21,7 @@
 </div>
 
 <style>
-  @font-face { font-family: DIN; src: url('./fonts/DIN Bold.ttf'); } 
+  @font-face { font-family: DIN; src: url('/fonts/DIN Bold.ttf'); } 
 
   #sidebar-holder {
     margin: 0;
