@@ -8,7 +8,7 @@
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
     <div id="content-box-listing"> <!-- June 18th -->
-        <h1 style="margin-top: 7.5px;">Website Updates</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+        <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-8)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
         <h2>Now moved to svelte!</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">It's now 12:15am. 46 minutes ago, the merge happened. With a few bugs that need to be fixed, the website *should be back to what it was pre-svelte. Besides that, here are a few new things that have come from the move to svelte!</p>
         <p style="line-height: 20px; margin-top: -7.5px;">- New pages such as this page (/updates) and a development page (/development) <br> - Faster speeds! Svelte is way faster than base HTML and I will slowly improve my svelte skills as I continue to learn it! <br> - Modularity between pages such as the sidebar and footer, now cutting back the clutter from each page. <br> - Back to one page. Svelte will be built and pushed while un-built will stay unpublished. (Beta page might come soon)</p>
