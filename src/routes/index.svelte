@@ -1,21 +1,29 @@
 <script>
-  import Footer from "./structure/footer.svelte"
+  // @ts-nocheck
+  
+  import Footer from "../structure/footer.svelte"
 </script>
-
+  
 <div id="content-holder">
   <div id="content-topbar">
-    <div id="content-topbar-title">Uhh ohh!</div>
-    <div id="content-topbar-info" style="font-size: 20px;">Looks like something went wrong!</div>
+    <div id="content-topbar-title">Welcome!</div>
+    <div id="content-topbar-info" style="font-size: 20px;">Welcome to Honkai: Star Rail Tools!</div>
   </div>
   <div id="content-box-main1">
-    <img src="./images/character-art/Pompom/Pom-Pom_Sticker_15.webp" alt="pompom" style="height: 200px;">
-    <br>Don't worry! This isn't a 404 page but you have encounted a page that hasn't been made yet or under development!
-    <br><br><br>If you are on the main website (https://hsrtools.kittenzexe.com), then this page isn't here. This is a tempoary page designed as a filler of where the next webpage will go.
-    <br><br>If you are on the beta website (https://hsrtools.kittenzexe.com/beta), then this page might be under development! If you would like to find out or help develop it, check it out on GitHub! (Your help will be much appreciated!)
-    <br><img src="./images/character-art/Pompom/Pom-Pom_Sticker_14.webp" alt="pompom" style="height: 200px;">
-    <br>If you have any questions or you would like to add or edit anything, please feel free to visit the public GitHub page here!
-    <br><a href="https://github.com/KittenzExe/hsrtools.kittenzexe">GitHub Page!</a>
-    <br>(hsrtools.kittenzexe.com is owned and ran by <a href="https://github.com/KittenzExe">KittenzExe</a>)
+    <h1 style="margin-top: 7.5px;">hsrtools.kittenzexe.com is under development at the moment!</h1><br>
+      <h2>What does that mean?</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Well... since this website is so new, there is only one developer working on it at the moment, <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a>. If you would like, please consider contributing to the GitHub page! (Your help will be much appreciated!)</p>
+      <h2>How you can help!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Like what was said above, any contribution to the GitHub page would be amazing. Information is much needed and with your help, the website can be finished earlier! (This is a community made website for the Honkai: Star Rail community)</p>
+      <h2>What can I see right now?</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Not a lot right now (as of June 18th). You can go to the following pages:<br>- This page <br> - Asta character Page <br> - Updates page <br> - Settings page <br><br> There will be more to come so sit tight, this is going to be a wild ride!</p>
+      <h2>Important Links</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">
+        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer">GitHub Page</button><br>
+        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution Docs</button><br>
+        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/issues" target="_blank" rel="noopener noreferrer">Issue Report (or Feature Report)</button><br>
+      </p>
+      <br>
   </div>
 </div>
 
@@ -97,8 +105,24 @@
       border-bottom-left-radius: 50px;
       font-family: DIN;
       font-size: 20px;
+      line-height: 5px;
       color: #fef6ed;
   }
+
+  #button {
+        background-color: #b9141c;
+        border: 0;
+        border-radius: 10px;
+        color: #fef6ed;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        font-family: DIN;
+        font-size: 20px;
+        cursor: pointer;
+    }
   
   @media screen and (max-width: calc(288px + 500px)) {
     #content-holder {
