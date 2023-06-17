@@ -1,7 +1,7 @@
 <script>
   // @ts-nocheck
   
-  import Footer from "../structure/footer.svelte"
+  import Footer from "./structure/footer.svelte"
 </script>
   
 <div id="content-holder">

@@ -1,5 +1,5 @@
 <script>
-    import Footer from "../../structure/footer.svelte"
+    import Footer from "../../structure/sidebar.svelte"
 </script>
 
 <div id="content-holder">
