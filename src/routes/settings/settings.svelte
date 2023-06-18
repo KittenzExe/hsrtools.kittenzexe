@@ -19,7 +19,7 @@
         <h2>Lead developer</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #fef6ed;">Kittenzexe</a></p>
         <h2>Other developers</h2>
-        <p style="line-height: 20px; margin-top: -7.5px;">- Name</p>
+        <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/Ccencceth" target="_blank" style="text-decoration: none; color: #fef6ed;">CCencceth - March 7th Page</a></p>
         <h2>Styling</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/SunflowerBlonde" target="_blank" style="text-decoration: none; color: #fef6ed;">SunflowerBlonde</a></p>
         <br>

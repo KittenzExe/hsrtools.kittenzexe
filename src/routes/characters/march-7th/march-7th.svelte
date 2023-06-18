@@ -4,7 +4,7 @@
 
 <div id="content-holder">
     <div id="content-image-wrap">
-        <img src="../../images/character-art/March7th/Character_March_7th_Portrait.webp" alt="asta" style="height: 650px;">
+        <img src="../../images/character-art/March7th/Character_March_7th_Portrait.webp" alt="march-7th" style="height: 500px;">
     </div>
     <div id="content-topbar">
       <div id="content-topbar-title">March 7th <img src="../../images/icon/Icon_4_Stars.webp" alt="4 star" height="35px"> <img src="../../images/elements/Element_Ice.webp" alt="ice" height="35px"> <img src="../../images/path/Path_The_Preservation.webp" alt="preservation" height="35px"></div>

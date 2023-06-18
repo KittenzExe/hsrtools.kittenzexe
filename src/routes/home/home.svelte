@@ -12,7 +12,7 @@
   <div id="content-box-main1">
     <h1 style="margin-top: 7.5px;">hsrtools.kittenzexe.com is under development at the moment!</h1><br>
       <h2>What does that mean?</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">Well... since this website is so new, there is only one developer working on it at the moment, <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a>. If you would like, please consider contributing to the GitHub page! (Your help will be much appreciated!)</p>
+      <p style="line-height: 20px; margin-top: -7.5px;">Well... since this website is so new, there isn't much content to be seen. If you would like, please consider contributing to the GitHub page! (Your help will be much appreciated!)</p>
       <h2>How you can help!</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">Like what was said above, any contribution to the GitHub page would be amazing. Information is much needed and with your help, the website can be finished earlier! (This is a community made website for the Honkai: Star Rail community)</p>
       <h2>What can I see right now?</h2>
