@@ -1,5 +1,5 @@
 <script>
-    import Footer from "../../structure/sidebar.svelte"
+    import Footer from "../../structure/footer.svelte"
 </script>
 
 <div id="content-holder">
@@ -175,7 +175,7 @@
             <div id="content-box-character-stats-container-item2">Dance! Dance! Dance!</div>
         </div>
     </div>
-    <div id="content-box-listing" style="height: 300px;">
+    <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
         <h1 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">Abilities</h1>
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/Asta/Skill_Spectrum_Beam.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Spectrum Beam | Deals Fire DMG equal to 50%–130% of ATK.<br><br></h3> 
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/Asta/Skill_Meteor_Storm.webp" alt="skill" style="height: 40px;"> Skill (Bounce)  | Meteor Storm | Deals Fire DMG equal to 25%–62.5% of ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to 25%–62.5% of ATK to a random enemy. <br><br></h3>

@@ -7,6 +7,17 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- June 18th 2 -->
+        <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-10)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+        <h2>New pages</h2>
+        <p style="line-height: 20px; margin-top: -7.5px;">New pages added: <br> - March 7th Character page added (Made by: <a href="https://github.com/Ccencceth" target="_blank" style="text-decoration: none; color: #b9141c;">Ccencceth</a>) <br> - Silver Wolf Character page added (Made by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">KittenzExe</a>) <br></p>
+        <br>
+        <h2>Small fixed</h2>
+        <p style="line-height: 20px; margin-top: -7.5px;">Fixed some small font problems and image loading problems but should be fixed. Will check again once posted.</p>
+        <br>
+        <h2>That's all!</h2>
+        <p style="line-height: 20px; margin-top: -7.5px;">Yup, it's still June 18th. And no, Beta v0.1-9 wasn't missed, just one thing happened. <br> ~bye! <br><img src="./images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- June 18th -->
         <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-8)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
         <h2>Now moved to svelte!</h2>

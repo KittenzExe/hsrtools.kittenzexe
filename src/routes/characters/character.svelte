@@ -82,7 +82,7 @@
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fivestar">Silver Wolf</div>
-            <a href="../development"><img src="./images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" id="content-grid-item-character" alt="SilverWolf" style="margin-left: -150px; margin-top: -10px; height: 300px;"></a><!-- update before out of beta -->
+            <a href="../characters/silver-wolf"><img src="./images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" id="content-grid-item-character" alt="SilverWolf" style="margin-left: -150px; margin-top: -10px; height: 300px;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">Sushang</div>

@@ -175,7 +175,7 @@
             <div id="content-box-character-stats-container-item2">This Is Me!</div>
         </div>
     </div>
-    <div id="content-box-listing" style="height: 380px;">
+    <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
         <h1 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">Abilities</h1>
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/March7th/Skill_Frigid_Cold_Arrow.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Frigid Cold Arrow | Deals Ice DMG equal to 50%–130% of March 7th's ATK to a single enemy.<br><br></h3> 
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/March7th/Skill_The_Power_of_Cuteness.webp" alt="skill" style="height: 40px;"> Skill (Defence)  | The Power of Cuteness | Provides a single ally with a Shield that can absorb DMG equal to 38%–66.5% of March 7th's DEF plus 190–973.75 for 3 turn(s). If the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.<br><br></h3>
