@@ -18,7 +18,7 @@
         <h1 style="margin-top: 7.5px;">Credits</h1><br>
         <h2>Lead developer</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #fef6ed;">Kittenzexe</a></p>
-        <h2>Other developers</h2>
+        <h2>Page developers</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/Ccencceth" target="_blank" style="text-decoration: none; color: #fef6ed;">CCencceth - March 7th Page</a></p>
         <h2>Styling</h2>
         <p style="line-height: 20px; margin-top: -7.5px;">- <a href="https://github.com/SunflowerBlonde" target="_blank" style="text-decoration: none; color: #fef6ed;">SunflowerBlonde</a></p>
