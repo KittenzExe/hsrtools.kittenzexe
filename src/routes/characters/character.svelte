@@ -54,7 +54,7 @@
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">March 7th</div>
-            <a href="../development"><img src="./images/character-art/March7th/Character_March_7th_Portrait.webp" id="content-grid-item-character" alt="March7th" style="margin-left: -280px; margin-top: -60px; height: 500px;"></a><!-- update before out of beta -->
+            <a href="../characters/march-7th"><img src="./images/character-art/March7th/Character_March_7th_Portrait.webp" id="content-grid-item-character" alt="March7th" style="margin-left: -280px; margin-top: -60px; height: 500px;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">Natasha</div>
