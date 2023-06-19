@@ -149,7 +149,6 @@
   @media screen and (min-width: 1920px) {
     #sidebar-holder {
       width: 288px;
-      background-color: blue;
       top: 0;
       left: 0;
       position: fixed;

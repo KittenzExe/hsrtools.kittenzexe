@@ -207,4 +207,18 @@
     #content-grid-item-character {
         overflow: hidden;
     }
+
+    @media screen and (max-width: calc(288px + 500px)) {
+    #content-holder {
+      background-color: #2e3036;
+      margin-left: 15vw;
+    }
+  }
+  @media screen and (min-width: 1920px) {
+    #content-holder {
+      width: calc(100vw - 288px);
+      margin-left: 288px;
+      background-color: #2e3036;
+    }
+  }
 </style>
