@@ -17,11 +17,15 @@
   let DEFMULTI = 0;
   let RESEFF = 0;
 
+  let FINAL = 0;
+
   function update() {
     DMGMULTI2 = DMGMULTI / 10
-    ATKFINAL = ATKTOTAL * ((DMGMULTI / 100) + 1);
-    DEFMULTI = 1 - (EMYDEF / (EMYDEF + 200 + 10 * CHARLVL));
+    ATKFINAL = ATKTOTAL * (DMGMULTI / 100);
+    DEFMULTI = (1 - (EMYDEF / (EMYDEF + 200 + 10 * CHARLVL)))*100;
     RESEFF = 100 - (RESYORN * (20)+20);
+
+    FINAL = ATKFINAL * (DEFMULTI / 100) * (RESEFF / 100) * 1 * 0.9
   }
 
 </script>
@@ -79,11 +83,12 @@
         <p style="color: #F09EA7; margin-top: 4px;">ATK Total: {ATKTOTAL}</p>
         <p style="color: #F09EA7; margin-top: 4px;">DMG% Skill Multiplier: {DMGMULTI}</p>
         <br>
-        <p style="color: #F09EA7; margin-top: 4px;">ATK Final: {ATKFINAL}</p>
+        <p style="color: #F09EA7; margin-top: 4px;">DEF Multi: {DEFMULTI}%</p>
         <br>
-        <p style="color: #F09EA7; margin-top: 4px;">DEF Multi: {DEFMULTI}</p>
+        <p style="color: #C1EBC0; margin-top: 4px;">RES Multi: {RESEFF}%</p>
         <br>
-        <p style="color: #C1EBC0; margin-top: 4px;">RES Multi: {RESEFF}</p>
+        <br>
+        <p style="color: #F09EA7; margin-top: 4px;">Final DMG: {FINAL}</p>
       </div>
       <br>
     </div>
