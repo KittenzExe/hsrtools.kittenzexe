@@ -2,6 +2,8 @@
     import Footer from "../../structure/footer.svelte"
 </script>
 
+<!-- THIS PAGE HAS CUSTOM HTML CODE DIFFERENT TO OTHER CHARACTER PAGES!!! SILVER WOLF EASTER EGG!!! PLESAE DO NOT REPLICATE OR DUPLICATE THIS CODE!!!-->
+
 <div id="content-holder">
     <div id="content-image-wrap">
         <img src="../../images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" alt="silver wolf" style="height: 390px; margin-top: 100px;">
@@ -208,6 +210,8 @@
   }
 
   /*FROM OLD CSS*/
+
+  /*PLEASE NOTE THAT THIS IS CUSTOM CSS FOR THIS PAGE!!! SILVER WOLF EASTER EGG!!! PLESAE DO NOT REPLICATE OR DUPLICATE THE CSS FROM THIS PAGE!!!*/
 
   #content-topbar {
         width: 100%;
