@@ -13,7 +13,7 @@
         <li id="list-li"><a href="../home">Home</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../characters">Characters</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../development">Database</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../development">Calculator</a></li><!-- update before out of beta -->
+        <li id="list-li"><a href="../tools">Tools</a></li><!-- update before out of beta -->
         <li id="list-li"><a href="../settings">Settings</a></li><!-- update before out of beta -->
       </div>
     </div>
