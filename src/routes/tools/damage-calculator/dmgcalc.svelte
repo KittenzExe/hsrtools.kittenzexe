@@ -38,14 +38,14 @@
         <h1 style="margin-top: 7.5px;">How damage is calculated</h1><br>
         <h2>Damage Equasion</h2>
         <div style="display: flex; justify-content: space-between;">
-          <p style="line-height: 20px; margin-top: -2.5px;">Outgoing DMG = </p>
-          <p style="color: #F09EA7; margin-top: 4px;">Base DMG</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #F6CA94; margin-top: 4px;">DMG% Multiplier</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #FAFABE; margin-top: 4px;">DEF Multiplier</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #C1EBC0; margin-top: 4px;">RES Multiplier</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #C7CAFF; margin-top: 4px;">DMG Taken Multiplier</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #CDABEB; margin-top: 4px;">Universal DMG Reduction Multiplier</p><p style="margin-top: 7.5px;"> * </p>
-          <p style="color: #F6C2F3; margin-top: 4px;">Weaken Multiplier</p>
+          <p style="line-height: 20px; margin-top: -2.5px;">DMG = </p>
+          <p style="color: #F09EA7; margin-top: 4px;">Base DMG</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: Skill Multiplier * ATK * Extra DMG (CHANGE ATK FOR DEF OR MAX HP IF DAMAGE IS SCALED OFF THEM)-->
+          <p style="color: #F6CA94; margin-top: 4px;">CRIT Multiplier</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: 1 + CRIT DMG | OR | 1 (IF CRIT DOSENT HIT)-->
+          <p style="color: #FAFABE; margin-top: 4px;">DMG Boost Multiplier</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: 1 + Elemental DMG Boost + All DMG Boost + DoT Boost-->
+          <p style="color: #C1EBC0; margin-top: 4px;">DEF Multiplier</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: (enemies only: DEF = 200 + 10 * Level) 1 - (DEF / (DEF + 200 + 10 + Level (Attacker)))-->
+          <p style="color: #C7CAFF; margin-top: 4px;">RES Multiplier</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: 1 - (RES (enemy) - RES PEN (Attacker))-->
+          <p style="color: #CDABEB; margin-top: 4px;">VUN Multiplier</p><p style="margin-top: 7.5px;"> * </p> <!-- CALCULATION REQUIRED: 1 + Elemental Vulnerability + All Type Vulnerability -->
+          <p style="color: #F6C2F3; margin-top: 4px;">Broken Multiplier</p> <!-- CALCULATION REQUIRED: 0.9 if enemy has break | 1.0 if not -->
         </div>
         <br>
     </div>
