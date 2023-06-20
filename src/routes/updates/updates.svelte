@@ -17,7 +17,7 @@
       <br>
       <h2>That's all!</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">God damn the week only started and I'm already tired. <br> ~bye! <br><img src="./images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
-  </div>
+    </div>
     <div id="content-box-listing"> <!-- June 18th 2 -->
         <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-10)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
         <h2>New pages</h2>
