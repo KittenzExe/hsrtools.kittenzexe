@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="../images/icon/Pom-Pom_Sticker_11.webp" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link href="../_app/immutable/assets/14.20e4d533.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/sidebar.691e7cc1.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/footer.b75cfcb2.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.5ee7fff3.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.9e8a8dba.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.df311edc.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.699e40d8.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.73e96ac6.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/14.09dfc368.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/sidebar.f7cdbeaf.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/footer.983ff1d0.js">
+	</head>
+	<body data-sveltekit-preload-data="hover" style="margin: 0px; padding: 0px; border: 0px; background-color: #2e3036; overflow-x: hidden;"><!-- Main Body -->
+		<div style="display: contents;">
+
+
+<div id="sidebar-holder" class="svelte-gmjglk"><div id="sidebar-decor" class="svelte-gmjglk"><div id="sidebar-decor-yellow" class="svelte-gmjglk"></div>
+    <div id="sidebar-decor-red" class="svelte-gmjglk"></div></div>
+  <div id="sidebar-content-holder" class="svelte-gmjglk"><div id="logo-side" class="svelte-gmjglk"><div id="logo" class="svelte-gmjglk"><img src="../images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
+      <div id="logotxt" class="svelte-gmjglk">Honkai: Star Rail Tools</div></div>
+    <div id="nav-side" class="svelte-gmjglk"><div id="list" class="svelte-gmjglk"><li id="list-li" class="svelte-gmjglk"><a href="../home" class="svelte-gmjglk">Home</a></li>
+        <li id="list-li" class="svelte-gmjglk"><a href="../characters" class="svelte-gmjglk">Characters</a></li>
+        <li id="list-li" class="svelte-gmjglk"><a href="../development" class="svelte-gmjglk">Database</a></li>
+        <li id="list-li" class="svelte-gmjglk"><a href="../tools" class="svelte-gmjglk">Tools</a></li>
+        <li id="list-li" class="svelte-gmjglk"><a href="../settings" class="svelte-gmjglk">Settings</a></li></div></div></div>
+</div>
+  <div id="content-holder" class="svelte-1cna7d4"><div id="content-topbar" class="svelte-1cna7d4"><div id="content-topbar-title" class="svelte-1cna7d4">Damage Calculator</div></div>
+    <div id="content-box-listing" class="svelte-1cna7d4"><h1 style="margin-top: 7.5px;">How damage is calculated</h1><br>
+        <h2>Damage Equasion</h2>
+        <div style="display: flex; justify-content: space-between;"><p style="line-height: 20px; margin-top: -2.5px;">DMG = </p>
+          <p style="color: #F09EA7; margin-top: 4px;">Base DMG</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #F6CA94; margin-top: 4px;">CRIT Multiplier</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #FAFABE; margin-top: 4px;">DMG Boost Multiplier</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #C1EBC0; margin-top: 4px;">DEF Multiplier</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #C7CAFF; margin-top: 4px;">RES Multiplier</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #CDABEB; margin-top: 4px;">VUN Multiplier</p><p style="margin-top: 7.5px;">* </p> 
+          <p style="color: #F6C2F3; margin-top: 4px;">Broken Multiplier</p> </div>
+        <br></div>
+    <div id="content-box-listing" class="svelte-1cna7d4"><h1 style="margin-top: 7.5px;">Calculator</h1><br>
+      <h2>Stats</h2>
+      <div><p style="color: #F09EA7; margin-top: 4px;">Skill Multiplier:</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #F09EA7; margin-top: 4px;">ATK Total:</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #F09EA7; margin-top: 4px;">Extra DMG</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #F6CA94; margin-top: 4px;">Crit DMG (Leave blank for no CRIT)</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #FAFABE; margin-top: 4px;">Elemental DMG Boost (%)</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #FAFABE; margin-top: 4px;">All DMG Boost (%)</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #FAFABE; margin-top: 4px;">DoT Boost (%)</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #C1EBC0; margin-top: 4px;">Enemy Level</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #C1EBC0; margin-top: 4px;">Your Level</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #C7CAFF; margin-top: 4px;">Enemy RES</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #C7CAFF; margin-top: 4px;">Your RES PEN</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #CDABEB; margin-top: 4px;">Enemy Elemental Vulnerability</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <p style="color: #CDABEB; margin-top: 4px;">All Elemental Vulnerability</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0">
+        <br><br><br><br><br>
+        <p style="color: #F6C2F3; margin-top: 4px;">Broken? (0.9 for yes | 1.0 for no)</p><input type="number" style="margin-bottom: 5px; margin-top: -5px; width: 100px;" value="0"></div>
+      <br>
+      <br></div>
+    <div id="content-box-listing" class="svelte-1cna7d4"><h1 style="margin-top: 7.5px;">Total</h1><br>
+      <div><p style="margin-top: 4px;">Final DMG: 0</p></div>
+      <br></div></div>
+
+<div id="content-holder" class="svelte-glxraf"><div id="footer-decor1" class="svelte-glxraf"></div>
+  <div id="footer-decor2" class="svelte-glxraf"></div>
+  <div id="footer-main" class="svelte-glxraf"><div id="footer-split"><a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer" class="svelte-glxraf"><div id="footer-split-left" class="svelte-glxraf">Official GitHub Page</div></a>
+          <a id="footer-a" href="https://twitter.com/kittenzexe" target="_blank" rel="noopener noreferrer" class="svelte-glxraf"><div id="footer-split-center" class="svelte-glxraf">KittenzExe&#39;s Twitter</div></a>
+          <a id="footer-a" href="../../updates" class="svelte-glxraf"><div id="footer-split-right" class="svelte-glxraf">Web Updates</div></a>
+          <a id="footer-a-version" class="svelte-glxraf"><div id="footer-split-version" class="svelte-glxraf">Web Version: Beta v0.1-11</div></a></div></div>
+</div>
+
+
+			
+			<script>
+				{
+					__sveltekit_il2u60 = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.5ee7fff3.js"),
+						import("../_app/immutable/entry/app.699e40d8.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 14],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

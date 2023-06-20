@@ -1,31 +1,37 @@
 <script>
   import Footer from "../../structure/footer.svelte"
 
-  let ATKTOTAL = 0;
-  let DMGMULTI = 0;
-  let ELEDMG = 0;
-  let RSBDMG = 0;
-  let CHARLVL = 0;
-  let UNIDMGREDMULTI = 0;
-  let WEKMULTI = 0;
+  let SkillMulti = 0;
+  let ATKTotal = 0;
+  let ExtraDMG = 0;
 
-  let EMYDEF = 0;
-  let RESYORN = 0;
+  let CritDMG = 0;
 
-  let ATKFINAL = 0;
-  let DMGMULTI2 = 0;
-  let DEFMULTI = 0;
-  let RESEFF = 0;
+  let ElementalDMG = 0;
+  let DMGBoost = 0;
+  let DoTBoost = 0;
 
-  let FINAL = 0;
+  let EnemyLVL = 0;
+  let UserLVL = 0;
+
+  let EnemyRES = 0;
+  let UserRES = 0;
+
+  let EnemyElemental = 0;
+  let EnemyALL = 0;
+
+  let Broken = 0;
+
+
+  let subdef = 0;
+
+
+  let FINALSCORE = 0;
+
 
   function update() {
-    DMGMULTI2 = DMGMULTI / 10
-    ATKFINAL = ATKTOTAL * (DMGMULTI / 100);
-    DEFMULTI = (1 - (EMYDEF / (EMYDEF + 200 + 10 * CHARLVL)))*100;
-    RESEFF = 100 - (RESYORN * (20)+20);
-
-    FINAL = ATKFINAL * (DEFMULTI / 100) * (RESEFF / 100) * 1 * 0.9
+    subdef = (200 + 10 * EnemyLVL)
+    FINALSCORE = (((SkillMulti / 100) * ATKTotal * ExtraDMG) * (1 + CritDMG) * (1 + ElementalDMG + (DMGBoost / 100) + (DoTBoost / 100)) * (1 - (subdef / (subdef + 200 + 10 + UserLVL))) * (1 - ((EnemyRES / 100) - (UserRES / 100))) * (1 + (EnemyElemental / 100) + (EnemyALL / 100)) * (Broken))
   }
 
 </script>
@@ -51,28 +57,28 @@
     </div>
     <div id="content-box-listing">
       <h1 style="margin-top: 7.5px;">Calculator</h1><br>
-      <h2>Your stats</h2>
+      <h2>Stats</h2>
       <div>
-        <p style="color: #F09EA7; margin-top: 4px;">ATK Total: </p><input type="number" bind:value={ATKTOTAL} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-        <p style="color: #F09EA7; margin-top: 4px;">DMG% Skill Multiplier</p><input type="number" bind:value={DMGMULTI} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-
-        <p style="color: #F6CA94; margin-top: 4px;">Element DMG%</p><input type="number" bind:value={ELEDMG} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-        <p style="color: #F6CA94; margin-top: 4px;">Relic Set Bonus DMG%</p><input type="number" bind:value={RSBDMG} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-
-        <p style="color: #FAFABE; margin-top: 4px;">Character Level</p><input type="number" bind:value={CHARLVL} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-
-        <p style="color: #F6CA94; margin-top: 4px;">DMG% Multiplier</p>
-        <p style="color: #FAFABE; margin-top: 4px;">DEF Multiplier</p>
-        <p style="color: #C1EBC0; margin-top: 4px;">RES Multiplier</p>
-        <p style="color: #C7CAFF; margin-top: 4px;">DMG Taken Multiplier</p>
-        <p style="color: #CDABEB; margin-top: 4px;">Universal DMG Reduction Multiplier</p>
-        <p style="color: #F6C2F3; margin-top: 4px;">Weaken Multiplier</p>
-      </div>
-      <br>
-      <h2>Enemy Target</h2>
-      <div>
-        <p style="margin-top: 4px;">Base DEF: </p><input type="number" bind:value={EMYDEF} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
-        <p style="color: #C1EBC0; margin-top: 4px;">Is Weak to Enemy Element? (1 for yes, 0 for no)</p><input type="number" bind:value={RESYORN} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #F09EA7; margin-top: 4px;">Skill Multiplier:</p><input type="number" bind:value={SkillMulti} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #F09EA7; margin-top: 4px;">ATK Total:</p><input type="number" bind:value={ATKTotal} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #F09EA7; margin-top: 4px;">Extra DMG</p><input type="number" bind:value={ExtraDMG} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #F6CA94; margin-top: 4px;">Crit DMG (Leave blank for no CRIT)</p><input type="number" bind:value={CritDMG} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #FAFABE; margin-top: 4px;">Elemental DMG Boost (%)</p><input type="number" bind:value={ElementalDMG} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #FAFABE; margin-top: 4px;">All DMG Boost (%)</p><input type="number" bind:value={DMGBoost} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #FAFABE; margin-top: 4px;">DoT Boost (%)</p><input type="number" bind:value={DoTBoost} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #C1EBC0; margin-top: 4px;">Enemy Level</p><input type="number" bind:value={EnemyLVL} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #C1EBC0; margin-top: 4px;">Your Level</p><input type="number" bind:value={UserLVL} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #C7CAFF; margin-top: 4px;">Enemy RES</p><input type="number" bind:value={EnemyRES} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #C7CAFF; margin-top: 4px;">Your RES PEN</p><input type="number" bind:value={UserRES} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #CDABEB; margin-top: 4px;">Enemy Elemental Vulnerability</p><input type="number" bind:value={EnemyElemental} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <p style="color: #CDABEB; margin-top: 4px;">All Elemental Vulnerability</p><input type="number" bind:value={EnemyALL} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
+        <br><br><br><br><br>
+        <p style="color: #F6C2F3; margin-top: 4px;">Broken? (0.9 for yes | 1.0 for no)</p><input type="number" bind:value={Broken} on:input="{update}" style="margin-bottom: 5px; margin-top: -5px; width: 100px;">
       </div>
       <br>
       <br>
@@ -80,15 +86,7 @@
     <div id="content-box-listing">
       <h1 style="margin-top: 7.5px;">Total</h1><br>
       <div>
-        <p style="color: #F09EA7; margin-top: 4px;">ATK Total: {ATKTOTAL}</p>
-        <p style="color: #F09EA7; margin-top: 4px;">DMG% Skill Multiplier: {DMGMULTI}</p>
-        <br>
-        <p style="color: #F09EA7; margin-top: 4px;">DEF Multi: {DEFMULTI}%</p>
-        <br>
-        <p style="color: #C1EBC0; margin-top: 4px;">RES Multi: {RESEFF}%</p>
-        <br>
-        <br>
-        <p style="color: #F09EA7; margin-top: 4px;">Final DMG: {FINAL}</p>
+        <p style="margin-top: 4px;">Final DMG: {FINALSCORE}</p>
       </div>
       <br>
     </div>
