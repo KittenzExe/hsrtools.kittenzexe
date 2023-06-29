@@ -4,10 +4,10 @@
 
 <div id="content-holder">
     <div id="content-image-wrap">
-        <img src="../../images/character-art/Asta/Character_Asta_Portrait.webp" alt="asta" style="height: 650px;">
+        <img src="/images/character-art/Asta/Character_Asta_Portrait.webp" alt="asta" style="height: 650px;">
     </div>
     <div id="content-topbar">
-      <div id="content-topbar-title">Asta <img src="../../images/icon/Icon_4_Stars.webp" alt="4 star" height="35px"> <img src="../../images/elements/Element_Fire.webp" alt="fire" height="35px"> <img src="../../images/path/Path_The_Harmony.webp" alt="harmony" height="35px"></div>
+      <div id="content-topbar-title">Asta <img src="/images/icon/Icon_4_Stars.webp" alt="4 star" height="35px"> <img src="/images/elements/Element_Fire.webp" alt="fire" height="35px"> <img src="/images/path/Path_The_Harmony.webp" alt="harmony" height="35px"></div>
       <div id="content-topbar-info" style="font-size: 20px;">"The 'tortoise' galaxies are those that slooowly give birth to new stars. The ones that use up their fuel reserves in an instant, are the 'hare' galaxies."</div>
     </div>
     <div id="content-box-main1">
@@ -131,62 +131,62 @@
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">0 to 1</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">3,200</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">3,200</div>
             <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Badge.webp" alt="silvermane-badge" style="height: 45px;">4</div>
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">1 to 2</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">6,400</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Badge.webp" alt="silvermane-badge" style="height: 45px;">8</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">6,400</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Silvermane_Badge.webp" alt="silvermane-badge" style="height: 45px;">8</div>
             <div id="content-box-character-stats-container-item"></div>
             
             <div id="content-box-character-stats-container-item">2 to 3</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">12,800</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">2</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Insignia.webp" alt="silvermane-insignia" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">12,800</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">2</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Silvermane_Insignia.webp" alt="silvermane-insignia" style="height: 45px;">5</div>
             
             <div id="content-box-character-stats-container-item">3 to 4</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">32,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">5</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Insignia.webp" alt="silvermane-insignia" style="height: 45px;">8</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">32,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Silvermane_Insignia.webp" alt="silvermane-insignia" style="height: 45px;">8</div>
             
             <div id="content-box-character-stats-container-item">4 to 5</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">64,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">15</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Medal.webp" alt="silvermane-medal" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">64,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">15</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Silvermane_Medal.webp" alt="silvermane-medal" style="height: 45px;">5</div>
             
             <div id="content-box-character-stats-container-item">5 to 6</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">128,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">28</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Silvermane_Medal.webp" alt="silvermane-medal" style="height: 45px;">7</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">128,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Endotherm_Chitin.webp" alt="chitin" style="height: 45px;">28</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Silvermane_Medal.webp" alt="silvermane-medal" style="height: 45px;">7</div>
         </div>
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: 0px; margin-top: 5px;">Best Lightcones</h3>
         <div id="content-box-character-stats-container3">
             <div id="content-box-character-stats-container-item2">Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_But_the_Battle_Isn't_Over.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_But_the_Battle_Isn't_Over.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">The Battle Isn't Over</div>
     
             <div id="content-box-character-stats-container-item2">2nd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Planetary_Rendezvous.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Planetary_Rendezvous.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Planetary Rendezvous</div>
             
             <div id="content-box-character-stats-container-item2">3rd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Dance!_Dance!_Dance!.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Dance!_Dance!_Dance!.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Dance! Dance! Dance!</div>
         </div>
     </div>
     <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
         <h1 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">Abilities</h1>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/Asta/Skill_Spectrum_Beam.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Spectrum Beam | Deals Fire DMG equal to 50%–130% of ATK.<br><br></h3> 
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/Asta/Skill_Meteor_Storm.webp" alt="skill" style="height: 40px;"> Skill (Bounce)  | Meteor Storm | Deals Fire DMG equal to 25%–62.5% of ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to 25%–62.5% of ATK to a random enemy. <br><br></h3>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/Asta/Skill_Astral_Blessing.webp" alt="ultimate" style="height: 40px;"> Ultimate (Support)  | Astral Blessing | Increases SPD of all allies by 36–57 for 2 turn(s).<br><br></h3> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/Asta/Skill_Spectrum_Beam.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Spectrum Beam | Deals Fire DMG equal to 50%–130% of ATK.<br><br></h3> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/Asta/Skill_Meteor_Storm.webp" alt="skill" style="height: 40px;"> Skill (Bounce)  | Meteor Storm | Deals Fire DMG equal to 25%–62.5% of ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to 25%–62.5% of ATK to a random enemy. <br><br></h3>
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/Asta/Skill_Astral_Blessing.webp" alt="ultimate" style="height: 40px;"> Ultimate (Support)  | Astral Blessing | Increases SPD of all allies by 36–57 for 2 turn(s).<br><br></h3> 
     </div>
 </div>
 
 <Footer/>
 
 <style>
-    @font-face { font-family: DIN; src: url('../../fonts/DIN Bold.ttf'); } 
+    @font-face { font-family: DIN; src: url('/fonts/DIN Bold.ttf'); } 
   
   #content-holder {
     margin: 0;

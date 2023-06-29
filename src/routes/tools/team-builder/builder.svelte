@@ -24,43 +24,43 @@
     <div id="content-grid-container" style="margin-top: -50px; margin-left: 50px;">
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Arlan</div>
-        <a href="../development"><img src="../../images/character-art/Arlan/Character_Arlan_Portrait.webp" id="content-grid-item-character" alt="Arlan" style="margin-left: -100px; margin-top: 10px; height: 320px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Arlan/Character_Arlan_Portrait.webp" id="content-grid-item-character" alt="Arlan" style="margin-left: -100px; margin-top: 10px; height: 320px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar">Clara</div>
-          <a href="../development"><img src="../../images/character-art/Clara/Character_Clara_Portrait.webp" id="content-grid-item-character" alt="Clara" style="margin-left: -30px; margin-top: 10px; height: 300px;"></a><!-- update before out of beta -->
+          <a href="../development"><img src="/images/character-art/Clara/Character_Clara_Portrait.webp" id="content-grid-item-character" alt="Clara" style="margin-left: -30px; margin-top: 10px; height: 300px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fourstar">Dan Heng</div>
-          <a href="../development"><img src="../../images/character-art/Danheng/Character_Danheng_Portrait.webp" id="content-grid-item-character" alt="DanHeng" style="margin-left: -150px; margin-top: -75px; height: 450px;"></a><!-- update before out of beta -->
+          <a href="../development"><img src="/images/character-art/Danheng/Character_Danheng_Portrait.webp" id="content-grid-item-character" alt="DanHeng" style="margin-left: -150px; margin-top: -75px; height: 450px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Himeko</div>
-        <a href="../development"><img src="../../images/character-art/Himeko/Character_Himeko_Portrait.webp" id="content-grid-item-character" alt="Himeko" style="margin-left: -230px; margin-top: -40px; height: 550px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Himeko/Character_Himeko_Portrait.webp" id="content-grid-item-character" alt="Himeko" style="margin-left: -230px; margin-top: -40px; height: 550px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Hook</div>
-        <a href="../development"><img src="../../images/character-art/Hook/Character_Hook_Portrait.webp" id="content-grid-item-character" alt="Hook" style="margin-left: -330px; margin-top: -60px; height: 550px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Hook/Character_Hook_Portrait.webp" id="content-grid-item-character" alt="Hook" style="margin-left: -330px; margin-top: -60px; height: 550px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Jing Yuan</div>
-        <a href="../development"><img src="../../images/character-art/Jingyuan/Character_Jing_Yuan_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -220px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Jingyuan/Character_Jing_Yuan_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -220px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Seele</div>
-        <a href="../development"><img src="../../images/character-art/Seele/Character_Seele_Portrait.webp" id="content-grid-item-character" alt="Seele" style="margin-left: -200px; margin-top: -150px; height: 390px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Seele/Character_Seele_Portrait.webp" id="content-grid-item-character" alt="Seele" style="margin-left: -200px; margin-top: -150px; height: 390px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Sushang</div>
-        <a href="../development"><img src="../../images/character-art/Sushang/Character_Sushang_Portrait.webp" id="content-grid-item-character" alt="Sushang" style="margin-left: -120px; margin-top: 10px; height: 380px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Sushang/Character_Sushang_Portrait.webp" id="content-grid-item-character" alt="Sushang" style="margin-left: -120px; margin-top: 10px; height: 380px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar" style="font-size: 15px; padding-top: 3px;">Trailblazer (P)</div> <!-- might need another way of listing this -->
-        <a href="../development"><img src="../../images/character-art/Trailblazer/Character_Trailblazer_29_Destruction_Portrait.webp" id="content-grid-item-character" alt="Trailblazer" style="margin-left: -30px; margin-top: 0px; height: 380px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Trailblazer/Character_Trailblazer_29_Destruction_Portrait.webp" id="content-grid-item-character" alt="Trailblazer" style="margin-left: -30px; margin-top: 0px; height: 380px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Yanqing</div>
-        <a href="../development"><img src="../../images/character-art/Yanqing/Character_Yanqing_Portrait.webp" id="content-grid-item-character" alt="Yanqing" style="margin-left: -220px; margin-top: -30px; height: 440px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Yanqing/Character_Yanqing_Portrait.webp" id="content-grid-item-character" alt="Yanqing" style="margin-left: -220px; margin-top: -30px; height: 440px;"></a><!-- update before out of beta -->
       </div>
     </div>
 
@@ -70,31 +70,31 @@
     <div id="content-grid-container" style="margin-top: -50px; margin-left: 50px;">
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Herta</div>
-        <a href="../development"><img src="../../images/character-art/Herta/Character_Herta_Portrait.webp" id="content-grid-item-character" alt="Herta" style="margin-left: -30px; margin-top: 0px; height: 300px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Herta/Character_Herta_Portrait.webp" id="content-grid-item-character" alt="Herta" style="margin-left: -30px; margin-top: 0px; height: 300px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Pela</div>
-        <a href="../development"><img src="../../images/character-art/Pela/Character_Pela_Portrait.webp" id="content-grid-item-character" alt="Pela" style="margin-left: -130px; margin-top: 20px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Pela/Character_Pela_Portrait.webp" id="content-grid-item-character" alt="Pela" style="margin-left: -130px; margin-top: 20px; height: 400px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Qingque</div>
-        <a href="../development"><img src="../../images/character-art/Qingque/Character_Qingque_Portrait.webp" id="content-grid-item-character" alt="Qingque" style="margin-left: -110px; margin-top: -90px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Qingque/Character_Qingque_Portrait.webp" id="content-grid-item-character" alt="Qingque" style="margin-left: -110px; margin-top: -90px; height: 400px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Sampo</div>
-        <a href="../development"><img src="../../images/character-art/Sampo/Character_Sampo_Portrait.webp" id="content-grid-item-character" alt="Sampo" style="margin-left: -140px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Sampo/Character_Sampo_Portrait.webp" id="content-grid-item-character" alt="Sampo" style="margin-left: -140px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Serval</div>
-        <a href="../development"><img src="../../images/character-art/Serval/Character_Serval_Portrait.webp" id="content-grid-item-character" alt="Serval" style="margin-left: -110px; margin-top: -140px; height: 550px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Serval/Character_Serval_Portrait.webp" id="content-grid-item-character" alt="Serval" style="margin-left: -110px; margin-top: -140px; height: 550px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Silver Wolf</div>
-        <a href="../../characters/silver-wolf"><img src="../../images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" id="content-grid-item-character" alt="SilverWolf" style="margin-left: -150px; margin-top: -10px; height: 300px;"></a><!-- update before out of beta -->
+        <a href="/characters/silver-wolf"><img src="/images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" id="content-grid-item-character" alt="SilverWolf" style="margin-left: -150px; margin-top: -10px; height: 300px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Welt</div>
-        <a href="../development"><img src="../../images/character-art/Welt/Character_Welt_Portrait.webp" id="content-grid-item-character" alt="Welt" style="margin-left: -100px; margin-top: -60px; height: 440px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Welt/Character_Welt_Portrait.webp" id="content-grid-item-character" alt="Welt" style="margin-left: -100px; margin-top: -60px; height: 440px;"></a><!-- update before out of beta -->
       </div>
     </div>
 
@@ -104,11 +104,15 @@
     <div id="content-grid-container" style="margin-top: -50px; margin-left: 50px;">
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Bailu</div>
-        <a href="../development"><img src="../../images/character-art/Bailu/Character_Bailu_Portrait.webp" id="content-grid-item-character" alt="Bailu" style="margin-left: -150px; margin-top: -30px; height: 250px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Bailu/Character_Bailu_Portrait.webp" id="content-grid-item-character" alt="Bailu" style="margin-left: -150px; margin-top: -30px; height: 250px;"></a><!-- update before out of beta -->
+      </div>
+      <div id="content-grid-item">
+        <div id="content-grid-item-star-decor" class="fivestar">Luocha</div>
+        <a href="../development"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Natasha</div>
-        <a href="../development"><img src="../../images/character-art/Natasha/Character_Natasha_Portrait.webp" id="content-grid-item-character" alt="Natasha" style="margin-left: -50px; margin-top: 20px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Natasha/Character_Natasha_Portrait.webp" id="content-grid-item-character" alt="Natasha" style="margin-left: -50px; margin-top: 20px; height: 400px;"></a><!-- update before out of beta -->
       </div>
     </div>
 
@@ -118,15 +122,15 @@
     <div id="content-grid-container" style="margin-top: -50px; margin-left: 50px;">
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Gepard</div>
-        <a href="../development"><img src="../../images/character-art/Gepard/Character_Gepard_Portrait.webp" id="content-grid-item-character" alt="Gepard" style="margin-left: -320px; margin-top: -245px; height: 650px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Gepard/Character_Gepard_Portrait.webp" id="content-grid-item-character" alt="Gepard" style="margin-left: -320px; margin-top: -245px; height: 650px;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fourstar">March 7th</div>
-          <a href="../characters/march-7th"><img src="../../images/character-art/March7th/Character_March_7th_Portrait.webp" id="content-grid-item-character" alt="March7th" style="margin-left: -280px; margin-top: -60px; height: 500px;"></a><!-- update before out of beta -->
+          <a href="../characters/march-7th"><img src="/images/character-art/March7th/Character_March_7th_Portrait.webp" id="content-grid-item-character" alt="March7th" style="margin-left: -280px; margin-top: -60px; height: 500px;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar" style="font-size: 15px; padding-top: 3px;">Trailblazer (F)</div>
-          <a href="../development"><img src="../../images/character-art/Trailblazer/Character_Trailblazer_29_Destruction_Portrait.webp" id="content-grid-item-character" alt="Trailblazer" style="margin-left: -30px; margin-top: 0px; height: 380px;"></a><!-- update before out of beta -->
+          <a href="../development"><img src="/images/character-art/Trailblazer/Character_Trailblazer_29_Destruction_Portrait.webp" id="content-grid-item-character" alt="Trailblazer" style="margin-left: -30px; margin-top: 0px; height: 380px;"></a><!-- update before out of beta -->
         </div>
     </div>
 
@@ -136,15 +140,19 @@
     <div id="content-grid-container" style="margin-top: -50px; margin-left: 50px;">
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Asta</div>
-        <a href="../../characters/asta"><img src="../../images/character-art/Asta/Character_Asta_Portrait.webp" id="content-grid-item-character" alt="Asta" style="margin-left: -70px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="/characters/asta"><img src="/images/character-art/Asta/Character_Asta_Portrait.webp" id="content-grid-item-character" alt="Asta" style="margin-left: -70px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Bronya</div>
-        <a href="../development"><img src="../../images/character-art/Bronya/Character_Bronya_Portrait.webp" id="content-grid-item-character" alt="Bronya" style="margin-left: -220px; margin-top: -225px; height: 700px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Bronya/Character_Bronya_Portrait.webp" id="content-grid-item-character" alt="Bronya" style="margin-left: -220px; margin-top: -225px; height: 700px;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Tingyun</div>
-        <a href="../development"><img src="../../images/character-art/Tingyun/Character_Tingyun_Portrait.webp" id="content-grid-item-character" alt="Tingyun" style="margin-left: -70px; margin-top: -10px; height: 400px;"></a><!-- update before out of beta -->
+        <a href="../development"><img src="/images/character-art/Tingyun/Character_Tingyun_Portrait.webp" id="content-grid-item-character" alt="Tingyun" style="margin-left: -70px; margin-top: -10px; height: 400px;"></a><!-- update before out of beta -->
+      </div>
+      <div id="content-grid-item">
+        <div id="content-grid-item-star-decor" class="fourstar">Yukong</div>
+        <a href="../development"><img src="/images/character-art/Yukong/Character_Yukong_Portrait.webp" id="content-grid-item-character" alt="Yanqing" style="margin-left: -50px; margin-top: -60px; height: 580px; width: flex;"></a><!-- update before out of beta -->
       </div>
     </div>
 </div>
@@ -152,7 +160,7 @@
 <Footer/>
 
 <style>
-    @font-face { font-family: DIN; src: url('../../fonts/DIN Bold.ttf'); } 
+    @font-face { font-family: DIN; src: url('/fonts/DIN Bold.ttf'); } 
   
   #content-holder {
     margin: 0;

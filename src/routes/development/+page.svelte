@@ -3,5 +3,7 @@
   import PageData from "./underdevelopment.svelte"
 </script>
 
+<title>Development</title>
+<meta name="Looks like something went wrong!">
 <Sidebar/>
 <PageData/>
