@@ -53,6 +53,10 @@
             <a href="../development"><img src="./images/character-art/Jingyuan/Character_Jing_Yuan_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -220px; margin-top: 10px; height: 400px;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
+          <div id="content-grid-item-star-decor" class="fivestar">Luocha</div>
+          <a href="../development"><img src="./images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -160px; margin-top: 0px; height: 400px;"></a><!-- update before out of beta -->
+      </div>
+        <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">March 7th</div>
             <a href="../characters/march-7th"><img src="./images/character-art/March7th/Character_March_7th_Portrait.webp" id="content-grid-item-character" alt="March7th" style="margin-left: -280px; margin-top: -60px; height: 500px;"></a><!-- update before out of beta -->
         </div>
@@ -104,6 +108,10 @@
             <div id="content-grid-item-star-decor" class="fivestar">Yanqing</div>
             <a href="../development"><img src="./images/character-art/Yanqing/Character_Yanqing_Portrait.webp" id="content-grid-item-character" alt="Yanqing" style="margin-left: -220px; margin-top: -30px; height: 440px;"></a><!-- update before out of beta -->
         </div>
+        <div id="content-grid-item">
+          <div id="content-grid-item-star-decor" class="fourstar">Yukong</div>
+          <a href="../development"><img src="./images/character-art/Yukong/Character_Yukong_Portrait.webp" id="content-grid-item-character" alt="Yanqing" style="margin-left: -50px; margin-top: -60px; height: 580px;"></a><!-- update before out of beta -->
+      </div>
     </div>
 </div>
 
