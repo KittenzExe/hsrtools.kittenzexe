@@ -4,10 +4,10 @@
 
 <div id="content-holder">
     <div id="content-image-wrap">
-        <img src="../../images/character-art/March7th/Character_March_7th_Portrait.webp" alt="march-7th" style="height: 500px;">
+        <img src="/images/character-art/March7th/Character_March_7th_Portrait.webp" alt="march-7th" style="height: 500px;">
     </div>
     <div id="content-topbar">
-      <div id="content-topbar-title">March 7th <img src="../../images/icon/Icon_4_Stars.webp" alt="4 star" height="35px"> <img src="../../images/elements/Element_Ice.webp" alt="ice" height="35px"> <img src="../../images/path/Path_The_Preservation.webp" alt="preservation" height="35px"></div>
+      <div id="content-topbar-title">March 7th <img src="/images/icon/Icon_4_Stars.webp" alt="4 star" height="35px"> <img src="/images/elements/Element_Ice.webp" alt="ice" height="35px"> <img src="/images/path/Path_The_Preservation.webp" alt="preservation" height="35px"></div>
       <div id="content-topbar-info" style="font-size: 20px;">"Well would you listen to that! I saved everyone without causing any trouble! You're pretty awesome, March 7th!"</div>
     </div>
     <div id="content-box-main1">
@@ -131,62 +131,62 @@
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">0 to 1</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">3,200</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Thief's_Instinct.webp" alt="thiefs-instinct" style="height: 45px;">4</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">3,200</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Thief's_Instinct.webp" alt="thiefs-instinct" style="height: 45px;">4</div>
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">1 to 2</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">6,400</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Thief's_Instinct.webp" alt="thiefs-instinct" style="height: 45px;">8</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">6,400</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Thief's_Instinct.webp" alt="thiefs-instinct" style="height: 45px;">8</div>
             <div id="content-box-character-stats-container-item"></div>
             
             <div id="content-box-character-stats-container-item">2 to 3</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">12,800</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">2</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Usurper's_Scheme.webp" alt="usurpers-scheme" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">12,800</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">2</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Usurper's_Scheme.webp" alt="usurpers-scheme" style="height: 45px;">5</div>
             
             <div id="content-box-character-stats-container-item">3 to 4</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">32,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">5</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Usurper's_Scheme.webp" alt="usurpers-scheme" style="height: 45px;">8</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">32,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Usurper's_Scheme.webp" alt="usurpers-scheme" style="height: 45px;">8</div>
             
             <div id="content-box-character-stats-container-item">4 to 5</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">64,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">15</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Conqueror's_Will.webp" alt="conquerors-will" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">64,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">15</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Conqueror's_Will.webp" alt="conquerors-will" style="height: 45px;">5</div>
             
             <div id="content-box-character-stats-container-item">5 to 6</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">128,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">28</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Conqueror's_Will.webp" alt="conquerors-will" style="height: 45px;">7</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">128,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Horn_of_Snow.webp" alt="chitin" style="height: 45px;">28</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Conqueror's_Will.webp" alt="conquerors-will" style="height: 45px;">7</div>
         </div>
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: 0px; margin-top: 5px;">Best Lightcones</h3>
         <div id="content-box-character-stats-container3">
             <div id="content-box-character-stats-container-item2">Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Moment_of_Victory.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Moment_of_Victory.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Moment of Victory</div>
     
             <div id="content-box-character-stats-container-item2">2nd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Day_One_of_My_New_Life.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Day_One_of_My_New_Life.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Day One of My New Life</div>
             
             <div id="content-box-character-stats-container-item2">3rd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_This_Is_Me!.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_This_Is_Me!.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">This Is Me!</div>
         </div>
     </div>
     <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
         <h1 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">Abilities</h1>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/March7th/Skill_Frigid_Cold_Arrow.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Frigid Cold Arrow | Deals Ice DMG equal to 50%–130% of March 7th's ATK to a single enemy.<br><br></h3> 
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/March7th/Skill_The_Power_of_Cuteness.webp" alt="skill" style="height: 40px;"> Skill (Defence)  | The Power of Cuteness | Provides a single ally with a Shield that can absorb DMG equal to 38%–66.5% of March 7th's DEF plus 190–973.75 for 3 turn(s). If the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.<br><br></h3>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/March7th/Skill_Glacial_Cascade.webp" alt="ultimate" style="height: 40px;"> Ultimate (AoE)  | Glacial Cascade | Deals Ice DMG equal to 90%–180% of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s). While Frozen, enemies cannot take action and will receive Additional Ice DMG equal to 30%–75% of March 7th's ATK at the beginning of each turn.<br><br></h3> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/March7th/Skill_Frigid_Cold_Arrow.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | Frigid Cold Arrow | Deals Ice DMG equal to 50%–130% of March 7th's ATK to a single enemy.<br><br></h3> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/March7th/Skill_The_Power_of_Cuteness.webp" alt="skill" style="height: 40px;"> Skill (Defence)  | The Power of Cuteness | Provides a single ally with a Shield that can absorb DMG equal to 38%–66.5% of March 7th's DEF plus 190–973.75 for 3 turn(s). If the ally's current HP percentage is 30% or higher, greatly increases the chance of enemies attacking that ally.<br><br></h3>
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/March7th/Skill_Glacial_Cascade.webp" alt="ultimate" style="height: 40px;"> Ultimate (AoE)  | Glacial Cascade | Deals Ice DMG equal to 90%–180% of March 7th's ATK to all enemies. Hit enemies have a 50% base chance to be Frozen for 1 turn(s). While Frozen, enemies cannot take action and will receive Additional Ice DMG equal to 30%–75% of March 7th's ATK at the beginning of each turn.<br><br></h3> 
     </div>
 </div>
 
 <Footer/>
 
 <style>
-    @font-face { font-family: DIN; src: url('../../fonts/DIN Bold.ttf'); } 
+    @font-face { font-family: DIN; src: url('/fonts/DIN Bold.ttf'); } 
   
   #content-holder {
     margin: 0;

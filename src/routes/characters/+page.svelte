@@ -3,5 +3,7 @@
     import PageData from "./character.svelte"
 </script>
 
+<title>Characters</title>
+<meta name="Click on any character icon for more info">
 <Sidebar/>
 <PageData/>

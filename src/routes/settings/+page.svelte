@@ -3,5 +3,7 @@
     import PageData from "./settings.svelte"
 </script>
 
+<title>Settings</title>
+<meta name="(And credits!)">
 <Sidebar/>
 <PageData/>

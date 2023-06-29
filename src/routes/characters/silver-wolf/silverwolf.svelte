@@ -2,14 +2,14 @@
     import Footer from "../../structure/footer.svelte"
 </script>
 
-<!-- THIS PAGE HAS CUSTOM HTML CODE DIFFERENT TO OTHER CHARACTER PAGES!!! SILVER WOLF EASTER EGG!!! PLESAE DO NOT REPLICATE OR DUPLICATE THIS CODE!!!-->
+<!-- THIS PAGE HAS CUSTOM CODE DIFFERENT TO OTHER CHARACTER PAGES!!! SILVER WOLF EASTER EGG!!! PLESAE DO NOT REPLICATE OR DUPLICATE THIS CODE!!!-->
 
 <div id="content-holder">
     <div id="content-image-wrap">
-        <img src="../../images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" alt="silver wolf" style="height: 390px; margin-top: 100px;">
+        <img src="/images/character-art/SilverWolf/Character_Silver_Wolf_Portrait.webp" alt="silver wolf" style="height: 390px; margin-top: 100px;">
     </div>
     <div id="content-topbar">
-      <div id="content-topbar-title">Silver Wolf <img src="../../images/icon/Icon_5_Stars.webp" alt="5 star" height="35px"> <img src="../../images/elements/Element_Quantum.webp" alt="quantum" height="35px"> <img src="../../images/path/Path_The_Nihility.webp" alt="nihility" height="35px"></div>
+      <div id="content-topbar-title">Silver Wolf <img src="/images/icon/Icon_5_Stars.webp" alt="5 star" height="35px"> <img src="/images/elements/Element_Quantum.webp" alt="quantum" height="35px"> <img src="/images/path/Path_The_Nihility.webp" alt="nihility" height="35px"></div>
       <div id="content-topbar-info" style="font-size: 20px;">"Can you let me have some fun this time?"</div>
     </div>
     <div id="content-box-main1">
@@ -133,61 +133,61 @@
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">0 to 1</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">4,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Part.webp" alt="ancient-part" style="height: 45px;">5</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">4,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Part.webp" alt="ancient-part" style="height: 45px;">5</div>
             <div id="content-box-character-stats-container-item"></div>
     
             <div id="content-box-character-stats-container-item">1 to 2</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">8,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Part.webp" alt="ancient-part" style="height: 45px;">10</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">8,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Part.webp" alt="ancient-part" style="height: 45px;">10</div>
             <div id="content-box-character-stats-container-item"></div>
             
             <div id="content-box-character-stats-container-item">2 to 3</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">16,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">3</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Spindle.webp" alt="ancient-spindle" style="height: 45px;">6</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">16,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">3</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Spindle.webp" alt="ancient-spindle" style="height: 45px;">6</div>
             
             <div id="content-box-character-stats-container-item">3 to 4</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">40,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">7</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Spindle.webp" alt="ancient-spindle" style="height: 45px;">9</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">40,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">7</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Spindle.webp" alt="ancient-spindle" style="height: 45px;">9</div>
             
             <div id="content-box-character-stats-container-item">4 to 5</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">80,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">20</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Engine.webp" alt="ancient-engine" style="height: 45px;">6</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">80,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">20</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Engine.webp" alt="ancient-engine" style="height: 45px;">6</div>
             
             <div id="content-box-character-stats-container-item">5 to 6</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">160,000</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">35</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/icon/Item_Ancient_Engine.webp" alt="ancient-engine" style="height: 45px;">9</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Credit.webp" alt="credit" style="height: 45px;">160,000</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Void_Cast_Iron.webp" alt="void-cast-iron" style="height: 45px;">35</div>
+            <div id="content-box-character-stats-container-item"><img src="/images/icon/Item_Ancient_Engine.webp" alt="ancient-engine" style="height: 45px;">9</div>
         </div>
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: 0px; margin-top: 5px;">Best Lightcones</h3>
         <div id="content-box-character-stats-container3">
             <div id="content-box-character-stats-container-item2">Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Incessant_Rain.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Incessant_Rain.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Incessant Rain</div>
     
             <div id="content-box-character-stats-container-item2">2nd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Before_the_Tutorial_Mission_Starts.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Before_the_Tutorial_Mission_Starts.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Before the Tutorial Mission Starts</div>
             
             <div id="content-box-character-stats-container-item2">3rd Best</div>
-            <div id="content-box-character-stats-container-item"><img src="../images/lightcones/Light_Cone_Resolution_Shines_As_Pearls_of_Sweat.webp" alt="lightcone" style="height: 35px;"></div>
+            <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Resolution_Shines_As_Pearls_of_Sweat.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Resolution Shines As Pearls of Sweat</div>
 
-            <img src="../../images/character-art/SilverWolf/Silver_Wolf_Sticker_01.webp" alt="silver wolf troll" style="height: 200px; position: absolute; left: 50%; top: 75%;">
+            <img src="//images/character-art/SilverWolf/Silver_Wolf_Sticker_01.webp" alt="silver wolf troll" style="height: 200px; position: absolute; left: 50%; top: 75%;">
         </div>
     </div>
     <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
         <h1 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">Abilities</h1>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/SilverWolf/Skill_System_Warning.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | System Warning | Deals Quantum DMG equal to 50%–130% of ATK to a single enemy. <br><br></h3> 
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/SilverWolf/Skill_Allow_Changes.webp" alt="skill" style="height: 40px;"> Skill (Impair)  | Allow Changes | There is a 75%–90% base chance to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). <br> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/SilverWolf/Skill_System_Warning.webp" alt="basic-atk" style="height: 40px;"> Basic ATK (Single Target)  | System Warning | Deals Quantum DMG equal to 50%–130% of ATK to a single enemy. <br><br></h3> 
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/SilverWolf/Skill_Allow_Changes.webp" alt="skill" style="height: 40px;"> Skill (Impair)  | Allow Changes | There is a 75%–90% base chance to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by 20% for 2 turn(s). <br> 
             If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered. <br>
             Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept. <br>
             In addition, there is a 100% base chance to reduce the All-Type RES of the enemy further by 7.5%–11.25% for 2 turn(s). <br>
             Deals Quantum DMG equal to 98%–245% of ATK to this enemy. <br><br></h3>
-        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="../images/character-art/SilverWolf/Skill_User_Banned.webp" alt="ultimate" style="height: 40px;"> Ultimate (Impair)  | User Banned | There's a 85%–107.5% base chance to decrease the target enemy's DEF by 36%–49.5% for 3 turn(s). <br>
+        <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;"><img src="/images/character-art/SilverWolf/Skill_User_Banned.webp" alt="ultimate" style="height: 40px;"> Ultimate (Impair)  | User Banned | There's a 85%–107.5% base chance to decrease the target enemy's DEF by 36%–49.5% for 3 turn(s). <br>
             And at the same time, deals Quantum DMG equal to 228%–456% of ATK to the target enemy. <br><br></h3> 
     </div>
 </div>
@@ -195,7 +195,7 @@
 <Footer/>
 
 <style>
-    @font-face { font-family: DIN; src: url('../../fonts/DIN Bold.ttf'); } 
+    @font-face { font-family: DIN; src: url('/fonts/DIN Bold.ttf'); } 
   
   #content-holder {
     margin: 0;

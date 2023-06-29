@@ -5,7 +5,7 @@
   </div>
   <div id="sidebar-content-holder">
     <div id="logo-side">
-      <div id="logo"><img src="../images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%;"></div>
+      <div id="logo"><img src="/images/icon/Pom-Pom_Sticker_11.webp" alt="logo" style="width: 100%; height: flex;"></div>
       <div id="logotxt">Honkai: Star Rail Tools</div>
     </div>
     <div id="nav-side">
