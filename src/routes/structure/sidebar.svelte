@@ -10,11 +10,11 @@
     </div>
     <div id="nav-side">
       <div id="list">
-        <li id="list-li"><a href="../home">Home</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../characters">Characters</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../development">Database</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../tools">Tools</a></li><!-- update before out of beta -->
-        <li id="list-li"><a href="../settings">Settings</a></li><!-- update before out of beta -->
+        <li id="list-li-d"><a href="../home"><p style="margin: 0; border: 0; padding: 0;" class="desktop">Home</p><p style="margin: 0; border: 0; padding: 0;" class="mobile"><img class="mobile" src="/fonts/icons/home_FILL0_wght700_GRAD0_opsz48.svg" alt="home"></p></a></li><!-- update before out of beta -->
+        <li id="list-li-d"><a href="../characters"><p style="margin: 0; border: 0; padding: 0;" class="desktop">Characters</p><p style="margin: 0; border: 0; padding: 0;" class="mobile"><img class="mobile" src="/fonts/icons/groups_FILL0_wght700_GRAD0_opsz48.svg" alt="characters"></p></a></li><!-- update before out of beta -->
+        <li id="list-li-d"><a href="../development"><p style="margin: 0; border: 0; padding: 0;" class="desktop">Database</p><p style="margin: 0; border: 0; padding: 0;" class="mobile"><img class="mobile" src="/fonts/icons/database_FILL0_wght700_GRAD0_opsz48.svg" alt="database"></p></a></li><!-- update before out of beta -->
+        <li id="list-li-d"><a href="../tools"><p style="margin: 0; border: 0; padding: 0;" class="desktop">Tools</p><p style="margin: 0; border: 0; padding: 0;" class="mobile"><img class="mobile" src="/fonts/icons/construction_FILL0_wght700_GRAD0_opsz48.svg" alt="tools"></p></a></li><!-- update before out of beta -->
+        <li id="list-li-d"><a href="../settings"><p style="margin: 0; border: 0; padding: 0;" class="desktop">Settings</p><p style="margin: 0; border: 0; padding: 0;" class="mobile"><img class="mobile" src="/fonts/icons/settings_FILL0_wght700_GRAD0_opsz48.svg" alt="settings"></p></a></li><!-- update before out of beta -->
       </div>
     </div>
   </div>
@@ -117,15 +117,17 @@
     height: 100%;
     overflow: hidden;
   }
-  #list-li {
+  #list-li-d {
       overflow: hidden;
   }
-  #list-li a {
+  #list-li-d a {
       display: block;
       color: #fef6ed;
       text-align: center;
       margin: 10px;
-      padding: 20px 30px;
+      padding: auto;
+      padding-top: 20px;
+      padding-bottom: 20px;
       text-decoration: none;
       font-family: DIN;
       font-size: 20px;
@@ -136,6 +138,16 @@
       background-color: #2e3036;
       border-color: #efd1a1;
       overflow: hidden;
+  }
+  .desktop {
+    color: #fef6ed;
+  }
+  .mobile {
+    color: transparent;
+    filter: opacity(0);
+    position: absolute;
+    margin-left: -10px;
+    color: #2e3036;
   }
   
   @media screen and (max-width: calc(288px + 500px)) {
@@ -153,6 +165,31 @@
       left: 0;
       position: fixed;
       overflow: hidden;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    #sidebar-holder {
+      width: 100px;
+    }
+    #sidebar-decor-yellow, #sidebar-decor-red {
+      background-color: transparent;
+    }
+    #logotxt {
+      color: transparent;
+    }
+    #list-li-d a {
+      background-color: transparent;
+      border-color: transparent;
+    }
+    .desktop {
+      color: transparent;
+    }
+    .mobile {
+      color: #2e3036;
+      filter: opacity(1);
+    }
+    #list {
+      margin-top: -100px;
     }
   }
 </style>

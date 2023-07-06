@@ -10,7 +10,7 @@
     <div id="content-topbar-info" style="font-size: 20px;">Welcome to Honkai: Star Rail Tools!</div>
   </div>
   <div id="content-box-main1">
-    <h1 style="margin-top: 7.5px;">hsrtools.kittenzexe.com is under development at the moment!</h1><br>
+    <h1 style="margin-top: 7.5px; line-height: 40px;">hsrtools.kittenzexe.com is under development at the moment!</h1><br>
       <h2>What does that mean?</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">Well... since this website is so new, there isn't much content to be seen. If you would like, please consider contributing to the GitHub page! (Your help will be much appreciated!)</p>
       <h2>How you can help!</h2>

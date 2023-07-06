@@ -7,7 +7,8 @@
       <div id="content-topbar-title">Tools</div>
       <div id="content-topbar-info" style="font-size: 20px;">List of current tools you can use!</div>
     </div>
-    <a href="../development" style="text-decoration: none;"><div id="content-box-listing"><h1 style="margin-top: 7.5px;">Damage Calculator</h1></div></a>
+    <a href="../tools/damage-calculator" style="text-decoration: none;"><div id="content-box-listing"><h1 style="margin-top: 7.5px;">Damage Calculator</h1></div></a>
+    <a href="../tools/team-builder" style="text-decoration: none;"><div id="content-box-listing"><h1 style="margin-top: 7.5px;">Team Builder</h1></div></a>
     <a href="../development" style="text-decoration: none;"><div id="content-box-listing"><h1 style="margin-top: 7.5px;">More comming soon!</h1></div></a>
 </div>
 
