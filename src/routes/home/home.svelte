@@ -137,4 +137,12 @@
       background-color: #2e3036;
     }
   }
+  @media screen and (max-width: 1050px) {
+      #content-holder {
+        margin-left: 100px;
+      }
+      #content-box-main1 {
+        margin-left: 25px;
+      }
+  }
 </style>

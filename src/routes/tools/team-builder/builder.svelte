@@ -108,7 +108,7 @@
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fivestar">Luocha</div>
-        <a href="../development"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
+        <a href="../characters/bailu"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
       </div>
       <div id="content-grid-item">
         <div id="content-grid-item-star-decor" class="fourstar">Natasha</div>

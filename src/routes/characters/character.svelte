@@ -18,7 +18,7 @@
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fivestar">Bailu</div>
-            <a href="../development"><img src="/images/character-art/Bailu/Character_Bailu_Portrait.webp" id="content-grid-item-character" alt="Bailu" style="margin-left: -150px; margin-top: -30px; height: 250px; width: flex;"></a><!-- update before out of beta -->
+            <a href="../characters/bailu"><img src="/images/character-art/Bailu/Character_Bailu_Portrait.webp" id="content-grid-item-character" alt="Bailu" style="margin-left: -150px; margin-top: -30px; height: 250px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fivestar">Bronya</div>

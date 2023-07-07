@@ -6,7 +6,7 @@
           <a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-left">Official GitHub Page</div></a>
           <a id="footer-a" href="https://twitter.com/kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-center">KittenzExe's Twitter</div></a>
           <a id="footer-a" href="../../updates"><div id="footer-split-right">Web Updates</div></a>
-          <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-12</div></a>
+          <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-13/1</div></a>
       </div>
   </div>
 </div>
@@ -130,4 +130,9 @@
       margin-left: 288px;
     }
   }
+  @media screen and (max-width: 1050px) {
+      #content-holder {
+        margin-left: 75px;
+      }
+    }
 </style>

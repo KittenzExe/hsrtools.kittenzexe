@@ -7,6 +7,20 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- July 7th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-13/1)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 7th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>Mobile development started!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Once again, Im back from a break away. Currently still on the other side of Australia but now that I have some downtime, I can finnly get some work done. Onto the updates!</p>
+      <br>
+      <h2>Mobile UI</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Moving to adjustable UI such as a icon driven nav bar for mobile users but also fixing some scaling. As you might have noticed, there is a /1 at the end of the update number, that is because there will be a second update coming up after this.</p>
+      <br>
+      <h2>What has been added</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Not only the start of the mobile UI but also Bailu's page has now been started! I am going to try and get all the 5* characters finished before the end of next week. (Might do most of them on the plane ride home)</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">The timezone change has messed me up a little but oh well! <img src="/images/character-art/Pompom/Pom-Pom_Sticker_03.webp" alt="pompom" style="height: 35px;"> <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- June 29th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-12)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 29th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>I'm Back!</h2>
