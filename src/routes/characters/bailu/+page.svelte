@@ -3,7 +3,7 @@
     import PageData from "./bailu.svelte"
 </script>
 
-<title>Asta</title>
+<title>Bailu</title>
 <meta name="Lunch is like medicine — it has to have the right balance of ingredients. Two smoked patties and a cup of milk tea is a great way to heal your heart and lift your spirits!">
 <Sidebar/>
 <PageData/>

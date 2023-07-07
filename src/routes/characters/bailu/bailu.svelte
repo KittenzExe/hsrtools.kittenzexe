@@ -106,64 +106,6 @@
         color: #fef6ed;
     }
 
-    #content-box-listing {
-        width: 95%;
-        margin-left: 30px;
-        margin-bottom: 100px;
-        padding: 10px;
-        top: 60px;
-        left: -10px;
-        bottom: 10px;
-        overflow: hidden;
-        position: relative;
-        background-color: #43454e;
-        border-width: 5px;
-        border-style: solid;
-        border-color: #efd1a1;
-        border-top-right-radius: 50px;
-        border-bottom-left-radius: 50px;
-        font-family: DIN;
-        font-size: 20px;
-        color: #fef6ed;
-    }
-
-    #content-box-character-stats-container {
-        display: grid;
-        width: 50%;
-        grid-template-columns: auto auto auto auto auto auto;
-        padding-top: 5px;
-        font-size: 10px;
-        position: absolute;
-    }
-    #content-box-character-stats-container2 {
-        display: grid;
-        margin-left: 51%;
-        width: 45%;
-        grid-template-columns: auto auto auto auto;
-        padding-top: 5px;
-        font-size: 10px;
-    }
-    #content-box-character-stats-container3 {
-        display: grid;
-        width: 45%;
-        grid-template-columns: auto auto auto;
-        padding-top: 5px;
-        font-size: 15px;
-    }
-    #content-box-character-stats-container-item {
-        border: 1px solid rgba(0, 0, 0, 0.8);
-        padding: 3px;
-        font-size: 15px;
-        text-align: center;
-    }
-    #content-box-character-stats-container-item2 {
-        border: 1px solid rgba(0, 0, 0, 0.8);
-        padding: 3px;
-        font-size: 20px;
-        text-align: center;
-        padding-top: 10px;
-    }
-
     @media screen and (max-width: calc(288px + 500px)) {
     #content-holder {
       background-color: #2e3036;

@@ -7,6 +7,20 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- July 8th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-13/2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 8th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>Part 2!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">2 hours later and the second patch is dropped! And it's now 1am! Never the less, here is the update!</p>
+      <br>
+      <h2>New pages</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">All 5 star character pages have been started (more or less indexed into the website for later update). Database page now added! I am adding a Genshin to Star Rail Guide so that should be done soon-ish...</p>
+      <br>
+      <h2>Small fixes</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Other than that, just a few small updates but nothing big. IDK when v0.1-14 will drop but tomorrow or the next day at the latest.</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">I have to sleep omg<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- July 7th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-13/1)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 7th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>Mobile development started!</h2>
