@@ -8,6 +8,20 @@
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
     <div id="content-box-listing"> <!-- July 8th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-14)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>I- yea... code</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">WELCOME BACK TO THE MIDNIGHT CODE SESSION!!! IT IS 12:48 RIGHT NOW!</p>
+      <br>
+      <h2>New page</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Development tree made! You can check it out now! <a href="https://hsrtools.kittenzexe.com/development/devtree" target="_blank" style="text-decoration: none; color: #b9141c;">DevTree</a> It is a page mainly to outline the progress of all the pages on the website and to keep track of the progress. (Also to outline what is planned such as the character pages (Coming soon!))</p>
+      <br>
+      <h2>Oopsie</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Yeah there was a hotfix for v0.1-13/2... only because I messed up again.</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Yeah, what is sleep at this rate... I have to stop doing this. Oh well, on my way home tomorrow so maybe no update for a day or two...<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
+    <div id="content-box-listing"> <!-- July 8th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-13/2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 8th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>Part 2!</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">2 hours later and the second patch is dropped! And it's now 1am! Never the less, here is the update!</p>
