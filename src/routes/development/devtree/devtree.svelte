@@ -15,7 +15,7 @@
     <h2 id="notstarted" style="width: 85%;">Not Started - Planned but not worked on, page is planned but needs to be built</h2>
     <h2 style="color: #fef6ed;">This page is broken up into 2 parts, Official Pages (Pages ment for public use) and Side Pages (Pages ment for development or fillers)</h2>
     <br><br>
-    <h1 style="color: #fef6ed;">Official Pages (As of Beta v0.1-14)</h1>
+    <h1 style="color: #fef6ed;">Official Pages (As of Beta v0.1-15)</h1>
     <table style="width: 99%;">
       <tr>
         <th style="width: 20%; color: #fef6ed;">Main Pages</th>
@@ -30,6 +30,8 @@
       <tr>
         <td><p id="development">Characters</p></td>
         <td>
+          <p id="finalized">Main Page</p>
+          <br>
           <p id="notstarted">Arlan</p>
           <p id="finalized">Asta</p>
           <p id="development">Bailu</p>
@@ -58,6 +60,8 @@
           <p id="notstarted">Yukong</p>
         </td>
         <td>
+          <p id="finalized">characters/character.svelte</p>
+          <br>
           <p id="notstarted">n/a</p>
           <p id="finalized">characters/asta/asta.svelte</p>
           <p id="development">characters/bailu/bailu.svelte</p>
@@ -88,8 +92,13 @@
       </tr>
       <tr>
         <td><p id="development">Database</p></td>
-        <td><p id="development">Genshin to Star Rail Guide</p></td>
-        <td><p id="development">database/genshin-to-star-rail/gtosr.svelte</p></td>
+        <td><p id="development">Main</p></td>
+        <td><p id="development">database/database.svelte</p></td>
+      </tr>
+      <tr>
+        <td><p id="development">Guides</p></td>
+        <td><p id="development">Main</p><p id="development">Genshin To Star Rail Guide</p></td>
+        <td><p id="development">guides/guides.svelte</p><p id="development">guides/genshin-to-star-rail/gtosr.svelte</p></td>
       </tr>
       <tr>
         <td><p id="development">Tools</p></td>
@@ -107,7 +116,7 @@
         <td><p id="completed">updates/updates.svelte</p></td>
       </tr>
     </table>
-    <h1 style="color: #fef6ed;">Side Pages (As of Beta v0.1-14)</h1>
+    <h1 style="color: #fef6ed;">Side Pages (As of Beta v0.1-15)</h1>
     <table style="width: 99%;">
       <tr>
         <th style="width: 20%; color: #fef6ed;">Main Pages</th>

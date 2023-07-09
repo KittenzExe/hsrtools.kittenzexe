@@ -2,12 +2,14 @@
   <div id="footer-decor1"></div>
   <div id="footer-decor2"></div>
   <div id="footer-main">
-      <div id="footer-split">
-          <a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-left">Official GitHub Page</div></a>
-          <a id="footer-a" href="https://twitter.com/kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-center">KittenzExe's Twitter</div></a>
-          <a id="footer-a" href="../../updates"><div id="footer-split-right">Web Updates</div></a>
-          <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-14</div></a>
-      </div>
+    <table style="width: 75%; margin-top: 15px;">
+      <tr>
+        <th><a id="footer-a" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-left">Official GitHub Page</div></a></th>
+        <th><a id="footer-a" href="https://twitter.com/kittenzexe" target="_blank" rel="noopener noreferrer"><div id="footer-split-center">KittenzExe's Twitter</div></a></th>
+        <th><a id="footer-a" href="../../updates"><div id="footer-split-right">Web Updates</div></a></th>
+        <th><a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-15</div></a></th>
+      </tr>
+    </table>
   </div>
 </div>
 
@@ -52,14 +54,12 @@
   }
   #footer-split-left {
       height: 100%;
-      width: 15%;
-      margin-top: 20px;
+      width: flex;
       margin-left: 10px;
       font-family: DIN;
       font-size: 25px;
       text-decoration: none;
       font-weight: bold;
-      padding-left: 10px;
       overflow: hidden;
       border-width: 3px;
       border-style: solid;
@@ -68,14 +68,12 @@
   }
   #footer-split-center {
       height: 100%;
-      width: 15.5%;
-      margin-left: calc(20% + 20px);
-      margin-top: -36px;
+      width: flex;
+      margin-left: 10px;
       font-family: DIN;
       font-size: 25px;
       text-decoration: none;
       font-weight: bold;
-      padding-left: 10px;
       overflow: hidden;
       border-width: 3px;
       border-style: solid;
@@ -84,14 +82,12 @@
   }
   #footer-split-right {
       height: 100%;
-      width: 10%;
-      margin-left: calc(40% + 30px);
-      margin-top: -37px;
+      width: flex;
+      margin-left: 10px;
       font-family: DIN;
       font-size: 25px;
       text-decoration: none;
       font-weight: bold;
-      padding-left: 10px;
       overflow: hidden;
       border-width: 3px;
       border-style: solid;
@@ -100,18 +96,18 @@
   }
   #footer-split-version {
       height: 100%;
-      margin-left: 75%;
-      margin-top: -34px;
+      width: flex;
       font-family: DIN;
       font-size: 25px;
       text-decoration: none;
       font-weight: bold;
-      padding-left: 10px;
+      padding-left: 50px;
       overflow: hidden;
   }
   #footer-a {
       text-decoration: none;
       color: #fef6ed;
+      width: flex;
   }
   #footer-a-version {
       text-decoration: none;

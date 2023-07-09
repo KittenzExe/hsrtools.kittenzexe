@@ -7,6 +7,20 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- July 9th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-15)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>oh boy! v0.2-1 is coming soon!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Welcome back to the chaotic mess that is this update page! Its now been 4 updates in 3 days and this time, on a plane! Yes, the plane wifi is actualy decent so it do be dev time! Gotta make it quick, only have 16% battery left lmao.</p>
+      <br>
+      <h2>New page / tab!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Guides page on the sidebar is now up and will host all the guides to come. The data has been moved from the database page so it just felt natural.</p>
+      <br>
+      <h2>Small changes</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Sidebar re-done so now it isn't bad when it comes to scaling. (yay)</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Oh god, back to normal in an hour. yay. (13% battery yikes!)<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- July 8th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-14)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>I- yea... code</h2>
