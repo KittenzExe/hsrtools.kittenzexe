@@ -176,7 +176,7 @@
             <div id="content-box-character-stats-container-item"><img src="/images/lightcones/Light_Cone_Resolution_Shines_As_Pearls_of_Sweat.webp" alt="lightcone" style="height: 35px;"></div>
             <div id="content-box-character-stats-container-item2">Resolution Shines As Pearls of Sweat</div>
 
-            <img src="//images/character-art/SilverWolf/Silver_Wolf_Sticker_01.webp" alt="silver wolf troll" style="height: 200px; position: absolute; left: 50%; top: 75%;">
+            <img src="/images/character-art/SilverWolf/Silver_Wolf_Sticker_01.webp" alt="silver wolf troll" style="height: 200px; position: absolute; left: 50%; top: 75%;">
         </div>
     </div>
     <div id="content-box-listing" style="min-height: 300px; height: fit-content;">
