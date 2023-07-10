@@ -176,7 +176,7 @@
     }
     #content-grid-container{
     display: grid;
-    grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px;
+    grid-template-columns: repeat(auto-fill, 150px);
     height: auto;
     margin-top: 10px;
     padding: 10px;

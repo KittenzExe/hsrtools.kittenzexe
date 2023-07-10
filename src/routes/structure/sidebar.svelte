@@ -104,7 +104,7 @@
 
   #nav-side {
     margin: 0;
-    margin-top: 50px;
+    margin-top: 25px;
     padding: 0;
     border: 0;
     width: 100%;
@@ -138,6 +138,8 @@
       border-style: solid;
       background-color: #2e3036;
       border-color: #efd1a1;
+      border-top-right-radius: 25px;
+      border-bottom-left-radius: 25px;
       overflow: hidden;
   }
   .desktop {

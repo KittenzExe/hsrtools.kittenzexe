@@ -92,8 +92,28 @@
       </tr>
       <tr>
         <td><p id="development">Database</p></td>
-        <td><p id="development">Main</p></td>
-        <td><p id="development">database/database.svelte</p></td>
+        <td>
+          <p id="development">Main</p>
+          <br>
+          <p id="development">Characters</p>
+          <p id="notstarted">Light Cones</p>
+          <p id="notstarted">Relics</p>
+          <p id="notstarted">Enemy Creatures</p>
+          <p id="notstarted">Aeons</p>
+          <p id="notstarted">Factions</p>
+          <p id="notstarted">Terms</p>
+        </td>
+        <td>
+          <p id="development">database/database.svelte</p>
+          <br>
+          <p id="development">characters/characters.svelte</p>
+          <p id="notstarted">n/a</p>
+          <p id="notstarted">n/a</p>
+          <p id="notstarted">n/a</p>
+          <p id="notstarted">n/a</p>
+          <p id="notstarted">n/a</p>
+          <p id="notstarted">n/a</p>
+        </td>
       </tr>
       <tr>
         <td><p id="development">Guides</p></td>
@@ -158,6 +178,7 @@
     width: calc(100vw - 15vw);
     background-color: #2e3036;
     float: left;
+    font-family: DIN;
   }
 
   /*FROM OLD CSS*/
@@ -211,6 +232,7 @@
   }
   table, th, td {
     border: 0.5px solid #fef6ed;
+    font-family: DIN;
   }
 
   #completed {
