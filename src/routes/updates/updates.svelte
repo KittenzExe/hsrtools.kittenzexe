@@ -7,6 +7,17 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- July 13th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-16)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 13th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>Last update before moving to v0.2</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">There isn't much for this update but some quality of life updates to the ui and a few other small things. Just pushing it now since I have a little bit of time right now.</p>
+      <br>
+      <h2>Quality of life updates</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Can't fully list off them all but there has been a lot of changes just fixing speeds, mobile updates and ui updates. Nothing too much.</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">The holidays are coming to and end so might slow down but we keep going!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- July 9th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-15)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>oh boy! v0.2-1 is coming soon!</h2>

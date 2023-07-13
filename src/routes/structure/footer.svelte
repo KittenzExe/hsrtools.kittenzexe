@@ -9,7 +9,7 @@
         <th><a id="footer-a" href="../../updates"><div id="footer-split-right">Web Updates</div></a></th>
       </tr>
     </table>
-    <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-15-1</div></a>
+    <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.1-16</div></a>
   </div>
 </div>
 
