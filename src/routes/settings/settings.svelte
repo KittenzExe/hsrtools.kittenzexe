@@ -1,5 +1,6 @@
 <script>
     import Footer from "../structure/footer.svelte"
+    import Help from "../structure/extras/helpneeded.svelte"
 </script>
 
 <div id="content-holder">
@@ -7,6 +8,9 @@
       <div id="content-topbar-title">Settings</div>
       <div id="content-topbar-info" style="font-size: 20px;">(And credits!)</div>
     </div>
+
+    <Help/>
+
     <div id="content-box-listing">
         <h1 style="margin-top: 7.5px;">Settings</h1><br>
         <h2>Setting</h2>

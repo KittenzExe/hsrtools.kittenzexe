@@ -10,7 +10,7 @@
       <div id="content-topbar-info" style="font-size: 20px;">Uhh Ohh! Looks like something went wrong!</div>
     </div>
     <div id="content-box-main1">
-      <img src="/images/character-art/Pompom/Pom-Pom_Sticker_03.webp" alt="pompom" style="height: 200px;">
+      <img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_07.png" alt="pompom" style="height: 200px;">
       <br>Im sorry to say but this... wasn't ment to happen. Maybe check your url?
       <br><br>If you are on the main website (https://hsrtools.kittenzexe.com), if possible, could you please report this to the GitHub page? <br>(Your help will be much appreciated!)
       <br><br>If you are on the beta website (https://hsrtools.kittenzexe.com/beta), then this is probably under development. You can check it out on the GitHub page.

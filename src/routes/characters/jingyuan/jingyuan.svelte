@@ -1,5 +1,6 @@
 <script>
     import Footer from "../../structure/footer.svelte"
+    import Help from "../../structure/extras/helpneeded2.svelte"
 </script>
 
 <div id="content-holder">
@@ -10,6 +11,9 @@
       <div id="content-topbar-title">Jing Yuan <img src="/images/icon/Icon_5_Stars.webp" alt="5 star" height="35px"> <img src="/images/elements/Element_Lightning.webp" alt="lightning" height="35px"> <img src="/images/path/Path_The_Erudition.webp" alt="erudition" height="35px"></div>
       <div id="content-topbar-info" style="font-size: 20px;">"A truly masterful chess player has no brilliant moves. People clamor excitedly over displays of extreme cunning, forgetting to worry about the overall dangers of<br> the situation."</div>
     </div>
+
+    <Help/>
+    
     <div id="content-box-main1">
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">DATA TO BE ADDED<br><br></h3>
     </div>

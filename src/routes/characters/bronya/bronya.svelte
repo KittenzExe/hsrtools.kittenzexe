@@ -1,5 +1,6 @@
 <script>
     import Footer from "../../structure/footer.svelte"
+    import Help from "../../structure/extras/helpneeded2.svelte"
 </script>
 
 <div id="content-holder">
@@ -10,6 +11,9 @@
       <div id="content-topbar-title">Bronya <img src="/images/icon/Icon_5_Stars.webp" alt="5 star" height="35px"> <img src="/images/elements/Element_Wind.webp" alt="wind" height="35px"> <img src="/images/path/Path_The_Harmony.webp" alt="harmony" height="35px"></div>
       <div id="content-topbar-info" style="font-size: 20px;">"This place is always part of our homeland, even when it has been corroded by Fragmentum. Silvermane Guards will never turn their backs on their home."</div>
     </div>
+
+    <Help/>
+    
     <div id="content-box-main1">
         <h3 style="margin-bottom: -5px; padding-bottom: 5px; padding-top: -0px; margin-top: -5px;">DATA TO BE ADDED<br><br></h3>
     </div>

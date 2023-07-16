@@ -1,5 +1,6 @@
 <script>
   import Footer from "../structure/footer.svelte"
+  import Help from "../structure/extras/helpneeded.svelte"
 </script>
 
 <div id="content-holder">
@@ -7,11 +8,18 @@
       <div id="content-topbar-title">Guides</div>
       <div id="content-topbar-info">The place for Star Rail guides!</div>
   </div>
+
+  <Help/>
+
   <div id="content-grid-container">
       <div id="content-grid-item">
           <div id="content-grid-item-decor">Genshin to <br> Star Rail <br> Guide</div>
           <a href="../guides/genshin-to-star-rail"><img src="/images/other/braindamage.jpg" id="content-grid-item-character" alt="braindamage" style="margin-left: -120px; margin-top: -10px; height: 200px; width: flex;"></a><!-- update before out of beta -->
       </div>
+      <div id="content-grid-item">
+        <div id="content-grid-item-decor">More to <br> come soon!</div>
+        <a href="../guides/genshin-to-star-rail"><div></div></a><!-- update before out of beta -->
+    </div>
   </div>
 </div>
 

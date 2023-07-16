@@ -1,5 +1,6 @@
 <script>
   import Footer from "../../structure/footer.svelte"
+  import Help from "../../structure/extras/helpneeded.svelte"
 
   let SkillMulti = 0;
   let ATKTotal = 0;
@@ -40,6 +41,9 @@
     <div id="content-topbar">
       <div id="content-topbar-title">Damage Calculator</div>
     </div>
+
+    <Help/>
+
     <div id="content-box-listing">
         <h1 style="margin-top: 7.5px;">How damage is calculated</h1><br>
         <h2>Damage Equasion</h2>

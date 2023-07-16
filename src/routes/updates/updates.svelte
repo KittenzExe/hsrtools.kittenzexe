@@ -7,6 +7,17 @@
       <div id="content-topbar-title">Website Updates</div>
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
+    <div id="content-box-listing"> <!-- July 17th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 17th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>Welcome to V0.2!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Lot's of things have changed such as: <br>- Quality of life updates<br>- Pom-Pom Sticker Updates<br>- New page banners for help<br>- Some small changes working towards mobile<br>- And other small things</p>
+      <br>
+      <h2>What's to come?</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">- Database Page to be started with all sub pages<br>- Character Page progress<br>- Working on Tools Page and adding more<br>- Working on Guides and more helpful information<br>- Full scalability and mobile support</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Back to work now...<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
     <div id="content-box-listing"> <!-- July 13th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-16)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 13th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>Last update before moving to v0.2</h2>
@@ -16,7 +27,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">Can't fully list off them all but there has been a lot of changes just fixing speeds, mobile updates and ui updates. Nothing too much.</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">The holidays are coming to and end so might slow down but we keep going!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">The holidays are coming to and end so might slow down but we keep going!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- July 9th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-15)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -30,7 +41,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">Sidebar re-done so now it isn't bad when it comes to scaling. (yay)</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">Oh god, back to normal in an hour. yay. (13% battery yikes!)<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">Oh god, back to normal in an hour. yay. (13% battery yikes!)<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- July 8th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-14)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -44,7 +55,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">Yeah there was a hotfix for v0.1-13/2... only because I messed up again.</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">Yeah, what is sleep at this rate... I have to stop doing this. Oh well, on my way home tomorrow so maybe no update for a day or two...<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">Yeah, what is sleep at this rate... I have to stop doing this. Oh well, on my way home tomorrow so maybe no update for a day or two...<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- July 8th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-13/2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 8th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -72,7 +83,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">Not only the start of the mobile UI but also Bailu's page has now been started! I am going to try and get all the 5* characters finished before the end of next week. (Might do most of them on the plane ride home)</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">The timezone change has messed me up a little but oh well! <img src="/images/character-art/Pompom/Pom-Pom_Sticker_03.webp" alt="pompom" style="height: 35px;"> <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">The timezone change has messed me up a little but oh well! <img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_02.png" alt="pompom" style="height: 35px;"> <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- June 29th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-12)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 29th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -80,7 +91,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">I am back! Now with my 9 day hiatus of work is over, it's time to get back to it. With this update, it fixes a few small details, adds the 2 new characters from 1.1 and also added some new things to the GitHub Page such as the discussion page now having updates (Thanks to GitHub being out the whole day due to problems).</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">It is now 12:00AM so I guess this covers 2 days but oh well! <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">It is now 12:00AM so I guess this covers 2 days but oh well! <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- June 20th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-11)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 20th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -91,7 +102,7 @@
       <p style="line-height: 20px; margin-top: -7.5px;">The pages above are under development and not normaly accessable but they are accessable when typed into the url.</p>
       <br>
       <h2>That's all!</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">God damn the week only started and I'm already tired. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+      <p style="line-height: 20px; margin-top: -7.5px;">God damn the week only started and I'm already tired. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- June 18th 2 -->
         <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-10)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -102,7 +113,7 @@
         <p style="line-height: 20px; margin-top: -7.5px;">Fixed some small font problems and image loading problems but should be fixed. Will check again once posted.</p>
         <br>
         <h2>That's all!</h2>
-        <p style="line-height: 20px; margin-top: -7.5px;">Yup, it's still June 18th. And no, Beta v0.1-9 wasn't missed, just one thing happened. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+        <p style="line-height: 20px; margin-top: -7.5px;">Yup, it's still June 18th. And no, Beta v0.1-9 wasn't missed, just one thing happened. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
     <div id="content-box-listing"> <!-- June 18th -->
         <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.1-8)</h1><h2 style="font-size: 20px; color: #efd1a1;">(June 18th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
@@ -114,7 +125,7 @@
         <p style="line-height: 20px; margin-top: -7.5px;">I will try and keep pushing out content until all the content has been covered. (Characters, Items, Locations ect.) For now, me being the only one, I won't publicly release the website until at least all characters and items are done (with some small info on locations). Although the GitHub repo is public and people can contribute to the website, I won't advertise or that stuff until I think it is ready. Even things like this updates page. It is a way for me to update the website and inform people about it who may join later down the line. <br>(if you see this, hi!)</p>
         <br>
         <h2>That's all!</h2>
-        <p style="line-height: 20px; margin-top: -7.5px;">It's now 12:34am. Going to fix a few things and do the home page but after that, I am going stright to bed. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_01.webp" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+        <p style="line-height: 20px; margin-top: -7.5px;">It's now 12:34am. Going to fix a few things and do the home page but after that, I am going stright to bed. <br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
     </div>
 </div>
 

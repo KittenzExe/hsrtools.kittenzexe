@@ -4,7 +4,7 @@
 
 <div id="content-holder">
   <div id="content-image-wrap">
-    <img src="/images/character-art/Pompom/Pom-Pom_Sticker_06.webp" alt="pompom" style="margin-left: 0px; margin-top: 50px;">
+    <img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_15.png" alt="pompom" style="margin-left: 0px; margin-top: 50px; width: 100%;">
   </div>
   <div id="content-topbar">
     <div id="content-topbar-title">Why have a Beta?</div>
@@ -12,10 +12,10 @@
   </div>
   <div id="content-box-main1">
     Having the website be labeled as a "beta" is due to multiple reasons. One of them being that this website is under development! As things are being added to catch up to the full content, there are things missing and if it was a final version with things missing, it wouldn't be right.
-    <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_08.webp" alt="pompom" style="height: 200px;">
+    <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_11.png" alt="pompom" style="height: 200px;">
     <br>Being labeled a beta also allows people to freely edit / change and or update pages! As Honkai: Star Rail is still new and content is being added, the website will evolve to make sure all the content is added and accessable. (Just might take a little bit! (Solo dev moment but with some help!))
     <br><br>(Your help will be much appreciated!)
-    <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_14.webp" alt="pompom" style="height: 200px;">
+    <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_09.png" alt="pompom" style="height: 200px;">
     <br>Please feel free to visit the GitHub page and add some new content!
     <br><br>(A version breakdown is below this!)
   </div>
