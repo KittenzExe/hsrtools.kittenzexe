@@ -1,17 +1,15 @@
-<img src="https://github.com/KittenzExe/hsrtools.kittenzexe/assets/67358250/f99177c5-fd52-436c-a3e1-ee360defd0b7" height="200px"><h1>Honkai: Star Rail Tools Contribution Guidelines</h1>
+<img src="https://hsrtools.kittenzexe.com/images/icon/Pom-Pom_New_Sticker_08.png" height="200px"><h1>Honkai: Star Rail Tools Contribution Guidelines</h1>
 Hey there and welcome to the contribution guidelines page! This isn't a strict guideline by any means but it's in-place so that if someone would like to contribute to the website, they know what they can and can't do.
 
 ## Types of contribution<br>
-🟢 being allowed <br> 🟠 being with permission (through a discussion or issue request) <br> 🔴 being not allowed
+🟢 being allowed <br> 🟠 being with permission (through a discussion or issue request) <br> 🔴 being not allowed (or under extreme circumstances)
 
 🟢 - Adding to any current page (info and or images)<br>
 🟢 - Editing to any current page (info and or images)<br>
 🟢 - Creating a new page<br>
-🟠 - Creating a new section (sidebar nav)<br>
 🟠 - Removal of a page<br>
 🟠 - Website structure changes<br>
 🟠 - Website style changes<br>
-🟠 - Framework or library change (Style)<br>
 🔴 - Repository changes<br>
 🔴 - URL changes<br>
 🔴 - Administrator rank / permissions<br>
@@ -35,6 +33,6 @@ If you were to create a page for the website, you will be credited in the about 
 
 ## Closing
 KittenzExe here, this project wont be possible without a community. If you have any info you would like to add, please, don't hesitate. Even if you don't have any coding experience, even adding a sentence or two can help a lot. I wish I could do this all day every day but I simply can't. Your help will be much appreciated.
-<br><img src="https://github.com/KittenzExe/hsrtools.kittenzexe/assets/67358250/c256af5c-b5d6-4f7c-aa8b-55426245e1ed" height="200px">
+<br><img src="https://hsrtools.kittenzexe.com/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" height="200px">
 
-<h5>last updated: 16th of June, 2023</h5>
+<h5>last updated: 17th of July, 2023</h5>
