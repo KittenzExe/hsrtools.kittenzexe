@@ -1,6 +1,4 @@
 <script>
-// @ts-nocheck
-
   import Footer from "../structure/footer.svelte"
 </script>
 
@@ -16,12 +14,13 @@
       <h2>How you can help!</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">Like what was said above, any contribution to the GitHub page would be amazing. Information is much needed and with your help, the website can be finished earlier! (This is a community made website for the Honkai: Star Rail community)</p>
       <h2>What can I see right now?</h2>
-      <p style="line-height: 20px; margin-top: -7.5px;">Not a lot right now (as of June 29th). You can go to the following pages:<br>- This page <br> - Asta, March 7th and Silver Wolf character Page <br> - Updates page <br> - Settings page <br><br> There will be more to come so sit tight, this is going to be a wild ride!</p>
+      <p style="line-height: 20px; margin-top: -7.5px;">Check out the DevTree to see all the pages.</p>
+      <a id="button" href="./development/devtree">DevTree</a><br>
       <h2>Important Links</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">
-        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer">GitHub Page</button><br>
-        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution Docs</button><br>
-        <button id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/issues" target="_blank" rel="noopener noreferrer">Issue Report (or Feature Report)</button><br>
+        <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer">GitHub Page</a><br>
+        <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution Docs</a><br>
+        <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/issues" target="_blank" rel="noopener noreferrer">Issue Report (or Feature Report)</a><br>
       </p>
       <br>
   </div>
@@ -110,18 +109,19 @@
   }
 
   #button {
-        background-color: #b9141c;
-        border: 0;
-        border-radius: 10px;
-        color: #fef6ed;
-        padding: 5px 10px;
-        text-align: center;
-        text-decoration: none;
-        font-size: 16px;
-        margin: 4px 2px;
-        font-family: DIN;
-        font-size: 20px;
-        cursor: pointer;
+      background-color: #b9141c;
+      border: 0;
+      border-radius: 10px;
+      color: #fef6ed;
+      padding: 5px 10px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 16px;
+      margin: 4px 2px;
+      font-family: DIN;
+      font-size: 20px;
+      line-height: 40px;
+      cursor: pointer;
     }
   
   @media screen and (max-width: calc(288px + 500px)) {

@@ -11,14 +11,57 @@
     <div id="content-topbar-info" style="font-size: 20px;">It's simple! (kinda)</div>
   </div>
   <div id="content-box-main1">
-    Having a beta web-page allows me to work on features and let people try features for later releases to the final website. Its also a precaution so I can work on a beta page and if something goes wrong, it isn't messed up on the main page.
+    Having the website be labeled as a "beta" is due to multiple reasons. One of them being that this website is under development! As things are being added to catch up to the full content, there are things missing and if it was a final version with things missing, it wouldn't be right.
     <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_08.webp" alt="pompom" style="height: 200px;">
-    <br>The beta also allows people to edit / change and or update pages that will them be pushed to the main website! As Honkai: Star Rail is still new and content is being added, the beta alows people to create and publish new content which will then be put onto the main page once it has been checked.
+    <br>Being labeled a beta also allows people to freely edit / change and or update pages! As Honkai: Star Rail is still new and content is being added, the website will evolve to make sure all the content is added and accessable. (Just might take a little bit! (Solo dev moment but with some help!))
     <br><br>(Your help will be much appreciated!)
     <br><img src="/images/character-art/Pompom/Pom-Pom_Sticker_14.webp" alt="pompom" style="height: 200px;">
-    <br>If you have any questions or you would like to add or edit anything, please feel free to visit the public GitHub page here!
-    <br><a href="https://github.com/KittenzExe/hsrtools.kittenzexe">GitHub Page!</a>
-    <br>(hsrtools.kittenzexe.com is owned and ran by <a href="https://github.com/KittenzExe">KittenzExe</a>)
+    <br>Please feel free to visit the GitHub page and add some new content!
+    <br><br>(A version breakdown is below this!)
+  </div>
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; text-align: center; line-height: 5px;">Version Breakdown</h1><br>
+    <h2 style="text-align: center; line-height: 5px;">Broken up into 5 sections:</h2>
+    <div style="text-align: center; line-height: 5px;">
+      <p style="color: #ffb3ba; margin-top: 4px; display: inline-block;">Release</p>
+      <p style="color: #ffdfba; margin-top: 4px; display: inline-block;">Main Version</p>
+      <p style="color: #baffc9; margin-top: 4px; display: inline-block;">Sub Version</p>
+      <p style="color: #bae1ff; margin-top: 4px; display: inline-block;">Patch</p>
+      <p style="color: #ffffba; margin-top: 4px; display: inline-block;">Hot-Fix</p>
+    </div>
+    <h2 style="text-align: center; line-height: 5px;">Example:</h2>
+    <div style="text-align: center; line-height: 5px;">
+      <p style="color: #ffb3ba; margin-top: 4px; display: inline-block;">Beta</p>
+      <p style="color: #ffdfba; margin-top: 4px; display: inline-block;">v1</p>
+      <p style="color: #baffc9; margin-top: 4px; display: inline-block;">.3</p>
+      <p style="color: #bae1ff; margin-top: 4px; display: inline-block;">-15</p>
+      <p style="color: #ffffba; margin-top: 4px; display: inline-block;">-1</p>
+    </div>
+    <br>
+  </div>
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; color: #ffb3ba; line-height: 5px;">Release</h1>
+    <p>In the example, "Beta" means that the website version is being worked on.</p>
+  </div>
+
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; color: #ffdfba; line-height: 5px;">Main Version</h1>
+    <p>In the example, "v1" means that the website is in it's first full version.</p>
+  </div>
+
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; color: #baffc9; line-height: 5px;">Sub Version</h1>
+    <p>In the example, ".3" means that from the version, this is the 3rd main update to that version.</p>
+  </div>
+
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; color: #bae1ff; line-height: 5px;">Patch</h1> 
+    <p>In the example, "-15" means that there have been 15 small updates to the Sub Version.</p>
+  </div>
+
+  <div id="content-box-listing">
+    <h1 style="margin-top: 7.5px; color: #ffffba; line-height: 5px;">Hot-Fix</h1>
+    <p>In the example, "-1" means that there has been 1 Hot-Fix on the patch.</p>
   </div>
 </div>
 
@@ -107,6 +150,30 @@
       border-bottom-left-radius: 50px;
       font-family: DIN;
       font-size: 20px;
+      color: #fef6ed;
+  }
+
+  #content-box-listing {
+      width: 95%;
+      height: fit-content;
+      margin-top: 50px;
+      margin-left: 30px;
+      margin-bottom: 50px;
+      padding: 10px;
+      top: 10px;
+      left: -10px;
+      bottom: 10px;
+      position: relative;
+      text-align: center;
+      background-color: #43454e;
+      border-width: 5px;
+      border-style: solid;
+      border-color: #efd1a1;
+      border-top-right-radius: 50px;
+      border-bottom-left-radius: 50px;
+      font-family: DIN;
+      font-size: 20px;
+      line-height: 20px;
       color: #fef6ed;
   }
   
