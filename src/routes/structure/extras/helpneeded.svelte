@@ -6,7 +6,7 @@
         <div>
             <h1 style="margin-top: 7.5px; line-height: 10px;">&nbsp;This page is being worked on and or needs more information!</h1><br>
             <p style="line-height: 20px; margin-top: -7.5px;">&nbsp;&nbsp;&nbsp;Sorry for the inconvenience but if you would like to help add information, please check out the GitHub page and submit a new issue!</p>
-            <p style="line-height: 20px; margin-top: -7.5px;">&nbsp;&nbsp;&nbsp;<a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer">GitHub Page</a> <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution Docs</a> <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/issues" target="_blank" rel="noopener noreferrer">Issue Report (or Feature Report)</a> <a id="button" href="../development/devtree">DevTree</a> (Your help will be much appreciated!)</p>
+            <p style="line-height: 20px; margin-top: -7.5px;">&nbsp;&nbsp;&nbsp;<a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe" target="_blank" rel="noopener noreferrer">GitHub Page</a> <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution Docs</a> <a id="button" href="https://github.com/KittenzExe/hsrtools.kittenzexe/issues" target="_blank" rel="noopener noreferrer">Issue Report (or Feature Report)</a> <a id="button" href="../../../development/devtree">DevTree</a> (Your help will be much appreciated!)</p>
         </div>
     </div>
 </div>

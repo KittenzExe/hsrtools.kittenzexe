@@ -1,3 +1,7 @@
+<script>
+  import { Version } from '../../version.json';
+</script>
+
 <div id="content-holder">
   <div id="footer-decor1"></div>
   <div id="footer-decor2"></div>
@@ -9,7 +13,7 @@
         <th><a id="footer-a" href="../../updates"><div id="footer-split-right">Web Updates</div></a></th>
       </tr>
     </table>
-    <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: Beta v0.2</div></a>
+    <a id="footer-a-version" href="../../beta"><div id="footer-split-version">Web Version: {Version}</div></a>
   </div>
 </div>
 
@@ -45,7 +49,7 @@
       height: 100px;
       width: 100%;
       overflow: hidden;
-      background-color: #fef6ed;
+      background-color: #e9e7e2;
       overflow: hidden;
   }
   #footer-split-left {

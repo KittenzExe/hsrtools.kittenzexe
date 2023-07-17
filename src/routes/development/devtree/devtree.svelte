@@ -1,5 +1,6 @@
 <script>
   import Footer from "../../structure/footer.svelte"
+  import { Version } from '../../../version.json';
 </script>
 
 <div id="content-holder">
@@ -15,7 +16,7 @@
     <h2 id="notstarted" style="width: 85%;">Not Started - Planned but not worked on, page is planned but needs to be built</h2>
     <h2 style="color: #fef6ed;">This page is broken up into 2 parts, Official Pages (Pages ment for public use) and Side Pages (Pages ment for development or fillers)</h2>
     <br><br>
-    <h1 style="color: #fef6ed;">Official Pages (As of Beta v0.2)</h1>
+    <h1 style="color: #fef6ed;">Official Pages (As of {Version})</h1>
     <table style="width: 99%;">
       <tr>
         <th style="width: 20%; color: #fef6ed;">Main Pages</th>
@@ -136,7 +137,7 @@
         <td><p id="completed">updates/updates.svelte</p></td>
       </tr>
     </table>
-    <h1 style="color: #fef6ed;">Side Pages (As of Beta v0.2)</h1>
+    <h1 style="color: #fef6ed;">Side Pages (As of {Version})</h1>
     <table style="width: 99%;">
       <tr>
         <th style="width: 20%; color: #fef6ed;">Main Pages</th>
@@ -155,8 +156,8 @@
       </tr>
       <tr>
         <td><p id="completed">Development</p></td>
-        <td><p id="completed">Under Development (Filler) Page</p><p id="finalized">Development Tree (This page)</p></td>
-        <td><p id="completed">development/underdevelopment.svelte</p><p id="finalized">development/devtree/devtree.svelte</p></td>
+        <td><p id="completed">Under Development (Filler) Page</p><p id="completed">Development Tree (This page)</p></td>
+        <td><p id="completed">development/underdevelopment.svelte</p><p id="completed">development/devtree/devtree.svelte</p></td>
       </tr>
     </table>
     <br>

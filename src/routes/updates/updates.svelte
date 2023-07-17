@@ -8,6 +8,17 @@
       <div id="content-topbar-info" style="font-size: 20px;">A page where updates are announced (Along with GitHub)</div>
     </div>
     <div id="content-box-listing"> <!-- July 17th -->
+      <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-1)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 17th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+      <h2>More Quality of Life Updates</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Changes such as: <br>- New Home page layout!<br>- New pages!<br>- Version control across different pages (json)<br>- Some small tweaks with styling<br>- And other small things</p>
+      <br>
+      <h2>New Pages</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">Database Pages Added:<br>- Version Highlights<br>- Version 1.1 Recap Page</p>
+      <br>
+      <h2>That's all!</h2>
+      <p style="line-height: 20px; margin-top: -7.5px;">2 Updates in a day! Woo!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    </div>
+    <div id="content-box-listing"> <!-- July 17th -->
       <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 17th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
       <h2>Welcome to V0.2!</h2>
       <p style="line-height: 20px; margin-top: -7.5px;">Lot's of things have changed such as: <br>- Quality of life updates<br>- Pom-Pom Sticker Updates<br>- New page banners for help<br>- Some small changes working towards mobile<br>- And other small things</p>
