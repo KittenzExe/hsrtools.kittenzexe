@@ -7,7 +7,9 @@ Hey there and welcome to the contribution guidelines page! This isn't a strict g
 🟢 - Adding to any current page (info and or images)<br>
 🟢 - Editing to any current page (info and or images)<br>
 🟢 - Creating a new page<br>
+🟢 - Creating new content<br>
 🟠 - Removal of a page<br>
+🟠 - Removal of content<br>
 🟠 - Website structure changes<br>
 🟠 - Website style changes<br>
 🔴 - Repository changes<br>
@@ -26,7 +28,6 @@ As Honkai: Star Rail developes, there will be more and more information each upd
 When they release new content, **you are allowed to edit and or make new pages for that content.**
 
 Any other sources such as **rumors and or leaks are not permitted.**
-
 
 ## Page ownership
 If you were to create a page for the website, you will be credited in the about page of the website. Following your name will be anyone who updates the page with information (if they want to be credited). <br> This is a community driven project, there is no one person who owns it all.
