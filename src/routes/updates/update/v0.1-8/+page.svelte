@@ -1,6 +1,6 @@
 <script>
-    import Sidebar from "../structure/sidebar.svelte"
-    import PageData from "./update.svelte"
+    import Sidebar from "../../../structure/sidebar.svelte"
+    import PageData from "./content.svelte"
 </script>
 
 <title>Updates</title>

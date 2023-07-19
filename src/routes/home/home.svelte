@@ -10,9 +10,10 @@
   </div>
   <div style="display: flex;">
     <div style="position:inherit;">
-      <div id="content-box-main" style="margin-left: 125px; height: 280px; padding: 20px; background-image: url(/images/update/honkai-star-rail-version-1.1-adds-new-characters-and-events.webp); background-size: 100%; background-repeat: no-repeat;">
-        <h1 style="margin-top: 7.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.1 Highlights</h1>
-        <a id="button" href="../database/version/version-1.1" style="margin-top: 50px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
+      <div id="content-box-main" style="margin-left: 125px; height: fit-content; padding: 20px; padding-bottom: 10px;">
+        <img src="/images/update/honkai-star-rail-version-1.1-adds-new-characters-and-events.webp" alt="" style="width: calc(33vw + 40px); margin: -20px;">
+        <h1 style="margin-top: -257.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.1 Highlights</h1>
+        <a id="button" href="../database/version/version-1.1" style="margin-top: -200px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
       </div>
       <br>
       <div id="content-box-main" style="margin-left: 125px; height: 180px;">
