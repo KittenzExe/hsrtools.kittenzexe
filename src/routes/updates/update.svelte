@@ -127,13 +127,13 @@
       width: 100%;
       height: 80px;
       padding: 0;
-      top: 80px;
+      top: 90px;
       left: 15px;
       bottom: 0;
       position: absolute;
       overflow: hidden;
       font-family: DIN;
-      font-size: 35px;
+      font-size: 20px;
       font-weight: bold;
       color: #efd1a1;
   }

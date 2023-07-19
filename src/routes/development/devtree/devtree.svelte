@@ -94,7 +94,7 @@
       <tr>
         <td><p id="development">Database</p></td>
         <td>
-          <p id="development">Main</p>
+          <p id="finalized">Main</p>
           <br>
           <p id="development">Characters</p>
           <p id="notstarted">Light Cones</p>
@@ -103,9 +103,10 @@
           <p id="notstarted">Aeons</p>
           <p id="notstarted">Factions</p>
           <p id="notstarted">Terms</p>
+          <p id="development">Version</p>
         </td>
         <td>
-          <p id="development">database/database.svelte</p>
+          <p id="finalized">database/database.svelte</p>
           <br>
           <p id="development">characters/characters.svelte</p>
           <p id="notstarted">n/a</p>
@@ -114,6 +115,7 @@
           <p id="notstarted">n/a</p>
           <p id="notstarted">n/a</p>
           <p id="notstarted">n/a</p>
+          <p id="development">database/version/version.svelte (And sub pages)</p>
         </td>
       </tr>
       <tr>
