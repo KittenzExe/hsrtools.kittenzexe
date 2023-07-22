@@ -21,6 +21,10 @@
             <a href="../characters/bailu"><img src="/images/character-art/Bailu/Character_Bailu_Portrait.webp" id="content-grid-item-character" alt="Bailu" style="margin-left: -150px; margin-top: -30px; height: 250px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
+            <div id="content-grid-item-star-decor" class="fivestar">Blade</div>
+            <a href="../development"><img src="/images/character-art/Blade/Character_Blade_Portrait.webp" id="content-grid-item-character" alt="Blade" style="margin-left: -210px; margin-top: 0px; height: 550px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fivestar">Bronya</div>
             <a href="../characters/bronya"><img src="/images/character-art/Bronya/Character_Bronya_Portrait.webp" id="content-grid-item-character" alt="Bronya" style="margin-left: -220px; margin-top: -225px; height: 700px; width: flex;"></a><!-- update before out of beta -->
         </div>
@@ -53,8 +57,16 @@
             <a href="../characters/jingyuan"><img src="/images/character-art/Jingyuan/Character_Jing_Yuan_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -220px; margin-top: 10px; height: 400px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
+            <div id="content-grid-item-star-decor" class="fivestar">Kafka</div>
+            <a href="../development"><img src="/images/character-art/Kafka/Character_Kafka_Portrait.webp" id="content-grid-item-character" alt="Kafka" style="margin-left: -120px; margin-top: 10px; height: 500px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
+            <div id="content-grid-item-star-decor" class="fourstar">Luka</div>
+            <a href="../development"><img src="/images/character-art/Luka/Character_Luka_Splash_Art.webp" id="content-grid-item-character" alt="Luka" style="margin-left: -200px; margin-top: -100px; height: 600px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar">Luocha</div>
-          <a href="../characters/luocha"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="JingYuan" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
+          <a href="../characters/luocha"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="Luocha" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">March 7th</div>

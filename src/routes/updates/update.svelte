@@ -8,20 +8,20 @@
       <div id="content-topbar-info">A page where updates are announced (Along with GitHub)</div>
   </div>
 
-  <h1 style="color: #fef6ed; margin-left: 10px;">Latest Update</h1>
+  <h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Latest Update</h1>
   <div id="content-box-listing"> <!-- July xx -->
     <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 17th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
     <h2>New content added</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">Content such as: <br>- A new re-designed updates page<br>- Home page fixes</p>
+    <p style="line-height: 20px; margin-top: -7.5px;">Content such as: <br>- A new re-designed updates page<br>- Home page fixes<br>- Added new 1.2 characters<br>- 1.2 Highlights Page added<br>- Database Update image updated</p>
     <br>
     <h2>New Pages</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">- Yes</p>
+    <p style="line-height: 20px; margin-top: -7.5px;">- 1.2 Highlights page<br>- Working on 1.2 Character 5* pages</p>
     <br>
     <h2>That's all!</h2>
     <p style="line-height: 20px; margin-top: -7.5px;">THIS ISN'T OUT YET!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
   </div>
 
-<h1 style="color: #fef6ed; margin-left: 10px;">Previous Updates</h1>
+<h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Previous Updates</h1>
   <div id="content-grid-container" style="margin-top: -30px;">
     <div id="content-grid-item"> <!-- v0.2-2 | July xx -->
       <div id="content-grid-item-decor">Beta v0.2-2</div>

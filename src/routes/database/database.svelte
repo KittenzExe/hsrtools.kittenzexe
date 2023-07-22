@@ -81,7 +81,7 @@
       <div id="content-grid-item">
         <a href="./database/version" style="text-decoration: none;">
           <div id="content-grid-item-inner">
-            <img src="/images/update/honkai-star-rail-version-1.1-adds-new-characters-and-events.webp" style="height: 300px; margin-left: -150px" alt="terms">
+            <img src="/images/update/1.2/043c71056d8d2f6e2b46536fda409b20_5321003634705810847.png" style="height: 300px; margin-left: -250px" alt="terms">
             <div id="content-grid-item-inner-overlay" style="margin-top: -120px;">
               Updates
             </div>

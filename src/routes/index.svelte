@@ -10,14 +10,14 @@
   </div>
   <div style="display: flex;">
     <div style="position:inherit;">
-      <div id="content-box-main" style="margin-left: 125px; height: 280px; padding: 20px; background-image: url(/images/update/honkai-star-rail-version-1.1-adds-new-characters-and-events.webp); background-size: 100%; background-repeat: no-repeat;">
-        <h1 style="margin-top: 7.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.1 Highlights</h1>
-        <a id="button" href="./database/version/version-1.1" style="margin-top: 50px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
+      <div id="content-box-main" style="margin-left: 125px; height: 280px; padding: 20px; background-image: url(/images/update/1.2/043c71056d8d2f6e2b46536fda409b20_5321003634705810847.png); background-size: 100%; background-repeat: no-repeat;">
+        <h1 style="margin-top: 7.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.2 Highlights</h1>
+        <a id="button" href="./database/version/version-1.2" style="margin-top: 50px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
       </div>
       <br>
       <div id="content-box-main" style="margin-left: 125px; height: 180px;">
         <h1 style="margin-top: 7.5px; line-height: 40px; font-size: 35px;">Web Version: {Version} Updates</h1><br>
-        <p style="line-height: 20px; margin-top: -7.5px;">- Quality of life updates<br>- Pom-Pom Sticker Updates<br>- New page banners for help<br>- Some small changes working towards mobile<br>- And other small things</p>
+        <p style="line-height: 20px; margin-top: -7.5px;">- A new re-designed updates page<br>- Home page fixes<br>- Added new 1.2 characters<br>- 1.2 Highlights Page added<br>- Database Update image updated</p>
       </div>
     </div>
     <div id="content-box-main" style="margin-left: 25px;">
