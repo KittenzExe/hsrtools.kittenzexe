@@ -16,15 +16,15 @@
       <div id="content-grid-container">
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar">Blade</div>
-          <a href="../development"><img src="/images/character-art/Blade/Character_Blade_Portrait.webp" id="content-grid-item-character" alt="Blade" style="margin-left: -210px; margin-top: 0px; height: 550px; width: flex;"></a><!-- update before out of beta -->
+          <a href="../../development"><img src="/images/character-art/Blade/Character_Blade_Portrait.webp" id="content-grid-item-character" alt="Blade" style="margin-left: -210px; margin-top: 0px; height: 550px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar">Kafka</div>
-          <a href="../development"><img src="/images/character-art/Kafka/Character_Kafka_Portrait.webp" id="content-grid-item-character" alt="Kafka" style="margin-left: -120px; margin-top: 10px; height: 500px; width: flex;"></a><!-- update before out of beta -->
+          <a href="../../development"><img src="/images/character-art/Kafka/Character_Kafka_Portrait.webp" id="content-grid-item-character" alt="Kafka" style="margin-left: -120px; margin-top: 10px; height: 500px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fourstar">Luka</div>
-          <a href="../development"><img src="/images/character-art/Luka/Character_Luka_Splash_Art.webp" id="content-grid-item-character" alt="Luka" style="margin-left: -200px; margin-top: -100px; height: 600px; width: flex;"></a><!-- update before out of beta -->
+          <a href="../../development"><img src="/images/character-art/Luka/Character_Luka_Splash_Art.webp" id="content-grid-item-character" alt="Luka" style="margin-left: -200px; margin-top: -100px; height: 600px; width: flex;"></a><!-- update before out of beta -->
         </div>
       </div>
   </div>

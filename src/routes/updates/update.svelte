@@ -18,7 +18,7 @@
     <p style="line-height: 20px; margin-top: -7.5px;">- 1.2 Highlights page<br>- Working on 1.2 Character 5* pages</p>
     <br>
     <h2>That's all!</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">THIS ISN'T OUT YET!<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    <p style="line-height: 20px; margin-top: -7.5px;">Oh god, I need some sleep. r/place has got me up late<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
   </div>
 
 <h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Previous Updates</h1>
