@@ -10,7 +10,7 @@
 
   <h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Latest Update</h1>
   <div id="content-box-listing"> <!-- July xx -->
-    <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 17th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+    <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 24th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
     <h2>New content added</h2>
     <p style="line-height: 20px; margin-top: -7.5px;">Content such as: <br>- A new re-designed updates page<br>- Home page fixes<br>- Added new 1.2 characters<br>- 1.2 Highlights Page added<br>- Database Update image updated</p>
     <br>
