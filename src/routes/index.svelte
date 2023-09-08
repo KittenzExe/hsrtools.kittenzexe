@@ -10,9 +10,9 @@
   </div>
   <div style="display: flex;">
     <div style="position:inherit;">
-      <div id="content-box-main" style="margin-left: 125px; height: 280px; padding: 20px; background-image: url(/images/update/1.2/043c71056d8d2f6e2b46536fda409b20_5321003634705810847.png); background-size: 100%; background-repeat: no-repeat;">
-        <h1 style="margin-top: 7.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.2 Highlights</h1>
-        <a id="button" href="./database/version/version-1.2" style="margin-top: 50px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
+      <div id="content-box-main" style="margin-left: 125px; height: 280px; padding: 20px; background-image: url(/images/update/1.3/Splash_Screen_Celestial_Eyes_Above_Mortal_Ruins.webp); background-size: 100%; background-repeat: no-repeat;">
+        <h1 style="margin-top: 7.5px; line-height: 40px; position: absolute; color: #b9141c;">Version 1.3 Highlights</h1>
+        <a id="button" href="./database/version/version-1.3" style="margin-top: 50px; position: absolute; padding: 0px 5px 0px 5px">Highlights</a><br>
       </div>
       <br>
       <div id="content-box-main" style="margin-left: 125px; height: 180px;">

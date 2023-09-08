@@ -37,6 +37,14 @@
             <a href="../development"><img src="/images/character-art/Danheng/Character_Danheng_Portrait.webp" id="content-grid-item-character" alt="DanHeng" style="margin-left: -150px; margin-top: -75px; height: 450px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
+          <div id="content-grid-item-star-decor" style="height: 50px; top: 155px" class="fivestar">Dan Heng -<br> Imbibitor</div>
+          <a href="../characters/danhengimbibtor"><img src="/images/character-art/DanHungImbibitor/Character_Dan_Heng__Imbibitor_Lunae_Portrait.webp" id="content-grid-item-character" alt="DanHeng" style="margin-left: -200px; margin-top: -100px; height: 450px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
+          <div id="content-grid-item-star-decor" class="fivestar">Fu Xuan</div>
+          <a href="../characters/fuxuan"><img src="/images/character-art/FuXuan/Character_Fu_Xuan_Splash_Art.webp" id="content-grid-item-character" alt="Fu Xuan" style="margin-left: -150px; margin-top: -100px; height: 450px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fivestar">Gepard</div>
             <a href="../characters/gepard"><img src="/images/character-art/Gepard/Character_Gepard_Portrait.webp" id="content-grid-item-character" alt="Gepard" style="margin-left: -320px; margin-top: -245px; height: 650px; width: flex;"></a><!-- update before out of beta -->
         </div>
@@ -67,6 +75,10 @@
         <div id="content-grid-item">
           <div id="content-grid-item-star-decor" class="fivestar">Luocha</div>
           <a href="../characters/luocha"><img src="/images/character-art/Luocha/Character_Luocha_Portrait.webp" id="content-grid-item-character" alt="Luocha" style="margin-left: -160px; margin-top: 0px; height: 400px; width: flex;"></a><!-- update before out of beta -->
+        </div>
+        <div id="content-grid-item">
+          <div id="content-grid-item-star-decor" class="fourstar">Lynx</div>
+          <a href="../development"><img src="/images/character-art/Lynx/Character_Lynx_Splash_Art.webp" id="content-grid-item-character" alt="Luocha" style="margin-left: -160px; margin-top: -100px; height: 400px; width: flex;"></a><!-- update before out of beta -->
         </div>
         <div id="content-grid-item">
             <div id="content-grid-item-star-decor" class="fourstar">March 7th</div>

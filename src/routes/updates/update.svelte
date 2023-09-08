@@ -9,20 +9,26 @@
   </div>
 
   <h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Latest Update</h1>
-  <div id="content-box-listing"> <!-- July xx -->
-    <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-2)</h1><h2 style="font-size: 20px; color: #efd1a1;">(July 24th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+  <div id="content-box-listing"> <!-- September 9th -->
+    <h1 style="margin-top: 7.5px;">Website Updates (Beta v0.2-3)</h1><h2 style="font-size: 20px; color: #efd1a1;">(September 9th, 2023) - Written by: <a href="https://github.com/KittenzExe" target="_blank" style="text-decoration: none; color: #b9141c;">Kittenzexe</a></h2><br>
+    <h2>I return</h2>
+    <p style="line-height: 20px; margin-top: -7.5px;">So, I return. After some time, I am back. Honestly questioning the sites purpose since the official tools have been released. Might change it up and focus on one or two things and expand from there.</p>
     <h2>New content added</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">Content such as: <br>- A new re-designed updates page<br>- Home page fixes<br>- Added new 1.2 characters<br>- 1.2 Highlights Page added<br>- Database Update image updated</p>
+    <p style="line-height: 20px; margin-top: -7.5px;">Content such as: <br>- 1.3 Update<br>- New characters<br>- Mobile improvements<br>- 1.3 Highlights Page added</p>
     <br>
     <h2>New Pages</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">- 1.2 Highlights page<br>- Working on 1.2 Character 5* pages</p>
+    <p style="line-height: 20px; margin-top: -7.5px;">- 1.3 Highlights page<br>- 1.3 Character 5* pages</p>
     <br>
     <h2>That's all!</h2>
-    <p style="line-height: 20px; margin-top: -7.5px;">Oh god, I need some sleep. r/place has got me up late<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
+    <p style="line-height: 20px; margin-top: -7.5px;">Will probably make another update discussing the website soon-ish (hopefully)<br> ~bye! <br><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_01.png" alt="pompom" style="height: 50px; margin-top: 2.5px;"></p>
   </div>
 
 <h1 style="color: #fef6ed; margin-left: 10px; font-family: DIN;">Previous Updates</h1>
   <div id="content-grid-container" style="margin-top: -30px;">
+    <div id="content-grid-item"> <!-- v0.2-3 | September 9th -->
+      <div id="content-grid-item-decor">Beta v0.2-3</div>
+      <a href="./updates/update/v0.2-3"><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_16.png" id="content-grid-item-character" alt="yes" style="margin-top: 0px; height: flex; width: 125px;"></a><!-- update before out of beta -->
+    </div>
     <div id="content-grid-item"> <!-- v0.2-2 | July xx -->
       <div id="content-grid-item-decor">Beta v0.2-2</div>
       <a href="./updates/update/v0.2-2"><img src="/images/character-art/Pompom/Pom-Pom_New_Sticker_13.png" id="content-grid-item-character" alt="yes" style="margin-top: 0px; height: flex; width: 125px;"></a><!-- update before out of beta -->

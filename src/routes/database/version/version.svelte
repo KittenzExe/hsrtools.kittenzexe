@@ -19,7 +19,11 @@
       <div id="content-grid-item">
         <div id="content-grid-item-decor">Version 1.2</div>
         <a href="../database/version/version-1.2"><img src="/images/update/1.2/043c71056d8d2f6e2b46536fda409b20_5321003634705810847.png" id="content-grid-item-character" alt="braindamage" style="margin-left: -180px; margin-top: -10px; height: 200px; width: flex;"></a><!-- update before out of beta -->
-    </div>
+      </div>
+      <div id="content-grid-item">
+        <div id="content-grid-item-decor">Version 1.3</div>
+        <a href="../database/version/version-1.3"><img src="/images/update/1.3/Splash_Screen_Celestial_Eyes_Above_Mortal_Ruins.webp" id="content-grid-item-character" alt="braindamage" style="margin-left: -100px; margin-top: -10px; height: 200px; width: flex;"></a><!-- update before out of beta -->
+      </div>
   </div>
 </div>
 
